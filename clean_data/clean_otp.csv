@@ -1,0 +1,36 @@
+year,month_num,month_name,airline,otp_pct,otp_status
+2024,1,January,Air India,47.6,Below Min
+2024,2,February,Air India,56.4,Below Min
+2024,3,March,Air India,71.9,Below Min
+2024,4,April,Air India,72.1,Below Min
+2024,5,May,Air India,68.4,Below Min
+2024,1,January,AirAsia India,59.8,Below Min
+2024,2,February,AirAsia India,73.5,Below Min
+2024,3,March,AirAsia India,83.0,Meets 75%
+2024,4,April,AirAsia India,79.5,Meets 75%
+2024,5,May,AirAsia India,74.9,Below Min
+2024,1,January,Akasa Air,71.8,Below Min
+2024,2,February,Akasa Air,72.9,Below Min
+2024,3,March,Akasa Air,84.5,Meets 75%
+2024,4,April,Akasa Air,89.2,Above 85%
+2024,5,May,Akasa Air,85.9,Above 85%
+2024,1,January,Alliance Air,51.0,Below Min
+2024,2,February,Alliance Air,48.3,Below Min
+2024,3,March,Alliance Air,48.6,Below Min
+2024,4,April,Alliance Air,49.5,Below Min
+2024,5,May,Alliance Air,58.7,Below Min
+2024,1,January,IndiGo,60.3,Below Min
+2024,2,February,IndiGo,72.7,Below Min
+2024,3,March,IndiGo,81.3,Meets 75%
+2024,4,April,IndiGo,76.1,Meets 75%
+2024,5,May,IndiGo,72.8,Below Min
+2024,1,January,SpiceJet,37.9,Below Min
+2024,2,February,SpiceJet,59.1,Below Min
+2024,3,March,SpiceJet,63.6,Below Min
+2024,4,April,SpiceJet,64.2,Below Min
+2024,5,May,SpiceJet,60.7,Below Min
+2024,1,January,Vistara,67.8,Below Min
+2024,2,February,Vistara,67.4,Below Min
+2024,3,March,Vistara,76.6,Meets 75%
+2024,4,April,Vistara,76.2,Meets 75%
+2024,5,May,Vistara,81.9,Meets 75%

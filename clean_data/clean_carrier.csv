@@ -1,0 +1,1548 @@
+airline,year,month,aircraft_count,passenger_count,load_factor_pct,month_name
+AirAsia India,2024,1,5158,802969.0,87.572,January
+AirAsia India,2024,2,4933,768022.0,87.605,February
+AirAsia India,2024,3,5074,769891.0,85.106,March
+AirAsia India,2024,4,4687,716857.0,85.827,April
+AirAsia India,2024,5,4511,703339.0,86.94,May
+AirAsia India,2024,6,4048,637860.0,88.596,June
+AirAsia India,2024,7,3916,590023.0,85.724,July
+AirAsia India,2024,8,3857,577347.0,84.438,August
+AirAsia India,2024,9,3684,535294.0,81.596,September
+Air Carnival,2016,8,88,4036.0,65.572,August
+Air Carnival,2016,9,150,6357.0,60.423,September
+Air Carnival,2016,10,188,7708.0,58.548,October
+Air Carnival,2016,11,194,9232.0,68.003,November
+Air Carnival,2016,12,234,9752.0,58.908,December
+Air Carnival,2017,1,278,11041.0,56.559,January
+Air Carnival,2017,2,266,13629.0,73.609,February
+Air Carnival,2017,3,280,12970.0,64.799,March
+Air Carnival,2017,4,21,1008.0,66.714,April
+Air Costa,2015,1,1032,65179.0,76.492,January
+Air Costa,2015,2,950,61717.0,77.885,February
+Air Costa,2015,3,1046,61790.0,69.232,March
+Air Costa,2015,4,980,66134.0,76.859,April
+Air Costa,2015,5,801,61345.0,81.206,May
+Air Costa,2015,6,946,65903.0,79.171,June
+Air Costa,2015,7,938,68327.0,81.673,July
+Air Costa,2015,8,883,62026.0,77.325,August
+Air Costa,2015,9,839,59341.0,78.929,September
+Air Costa,2015,10,773,57942.0,78.431,October
+Air Costa,2015,11,628,45620.0,78.01,November
+Air Costa,2015,12,691,55444.0,87.056,December
+Air Costa,2016,1,765,58607.0,83.985,January
+Air Costa,2016,2,690,56760.0,87.055,February
+Air Costa,2016,3,608,54387.0,82.081,March
+Air Costa,2016,4,714,64459.0,84.009,April
+Air Costa,2016,5,714,65321.0,85.679,May
+Air Costa,2016,6,698,62187.0,81.51,June
+Air Costa,2016,7,744,65239.0,80.808,July
+Air Costa,2016,8,721,55188.0,70.827,August
+Air Costa,2016,9,648,50799.0,73.716,September
+Air Costa,2016,10,657,51223.0,70.657,October
+Air Costa,2016,11,646,52240.0,74.143,November
+Air Costa,2016,12,582,49599.0,76.893,December
+Air Costa,2017,1,490,44092.0,81.12,January
+Air Costa,2017,2,440,40234.0,84.885,February
+Air Deccan,2017,12,37,252.0,39.613,December
+Air Deccan,2018,1,120,1071.0,50.294,January
+Air Deccan,2018,2,78,927.0,68.173,February
+Air Deccan,2018,3,32,302.0,53.061,March
+Air Deccan,2018,4,78,468.0,34.959,April
+Air Deccan,2018,5,172,1391.0,48.743,May
+Air Deccan,2018,6,75,573.0,44.699,June
+Air Deccan,2018,7,17,58.0,18.977,July
+Air Deccan,2018,8,152,1374.0,52.347,August
+Air Deccan,2018,9,192,1268.0,42.496,September
+Air Deccan,2018,10,80,203.0,18.619,October
+Air Deccan,2020,1,120,465.0,24.703,January
+Air Heritage,2019,1,36,307.0,34.238,January
+Air Heritage,2019,2,26,225.0,96.041,February
+Air Heritage,2019,9,63,520.0,91.711,September
+Air Heritage,2019,10,113,991.0,97.435,October
+Air Heritage,2019,11,30,238.0,88.154,November
+Air Heritage,2019,12,127,1112.0,97.287,December
+Air Heritage,2020,1,100,792.0,88.029,January
+Air Heritage,2020,2,80,692.0,96.11,February
+Air Heritage,2020,3,49,406.0,92.088,March
+Air India,2015,1,8840,1104361.0,82.634,January
+Air India,2015,2,7974,1010005.0,83.58,February
+Air India,2015,3,8804,996246.0,74.128,March
+Air India,2015,4,8384,999526.0,78.72,April
+Air India,2015,5,8600,1043708.0,80.575,May
+Air India,2015,6,8390,934155.0,73.691,June
+Air India,2015,7,8755,1032276.0,78.204,July
+Air India,2015,8,8753,1058866.0,79.652,August
+Air India,2015,9,8364,990986.0,77.21,September
+Air India,2015,10,8812,1015358.0,74.735,October
+Air India,2015,11,8732,1119595.0,81.964,November
+Air India,2015,12,8857,1217671.0,86.947,December
+Air India,2016,1,8964,1157645.0,82.018,January
+Air India,2016,2,8482,1085634.0,80.195,February
+Air India,2016,3,9029,1086743.0,75.922,March
+Air India,2016,4,9008,1117795.0,79.197,April
+Air India,2016,5,9390,1246137.0,85.057,May
+Air India,2016,6,8972,1156490.0,82.532,June
+Air India,2016,7,9218,1177504.0,80.752,July
+Air India,2016,8,9171,1134913.0,78.021,August
+Air India,2016,9,8885,1117959.0,79.385,September
+Air India,2016,10,9117,1030490.0,71.866,October
+Air India,2016,11,8887,1068768.0,75.158,November
+Air India,2016,12,9524,1245063.0,81.54,December
+Air India,2017,1,9536,1265046.0,81.754,January
+Air India,2017,2,8445,1084609.0,80.089,February
+Air India,2017,3,9105,1089418.0,74.748,March
+Air India,2017,4,8654,1086116.0,78.9,April
+Air India,2017,5,9539,1219997.0,81.062,May
+Air India,2017,6,9517,1149333.0,76.991,June
+Air India,2017,7,9914,1179933.0,75.437,July
+Air India,2017,8,9770,1176397.0,76.063,August
+Air India,2017,9,9465,1163026.0,78.637,September
+Air India,2017,10,9933,1216153.0,76.645,October
+Air India,2017,11,9410,1271612.0,84.077,November
+Air India,2017,12,9975,1298442.0,81.823,December
+Air India,2018,1,10159,1369342.0,84.761,January
+Air India,2018,2,9158,1259379.0,86.99,February
+Air India,2018,3,10242,1365653.0,84.032,March
+Air India,2018,4,9913,1345592.0,84.377,April
+Air India,2018,5,10291,1333851.0,81.697,May
+Air India,2018,6,9921,1238131.0,81.381,June
+Air India,2018,7,9631,1255241.0,82.872,July
+Air India,2018,8,9639,1265214.0,83.109,August
+Air India,2018,9,9180,1173238.0,82.11,September
+Air India,2018,10,10234,1276807.0,79.424,October
+Air India,2018,11,9822,1242223.0,76.868,November
+Air India,2018,12,10515,1372904.0,79.639,December
+Air India,2019,1,10378,1343960.0,78.452,January
+Air India,2019,2,9320,1286834.0,84.013,February
+Air India,2019,3,10247,1345336.0,79.608,March
+Air India,2019,4,10377,1344054.0,82.153,April
+Air India,2019,5,10757,1429384.0,83.292,May
+Air India,2019,6,10359,1354156.0,81.714,June
+Air India,2019,7,10171,1290205.0,78.597,July
+Air India,2019,8,10302,1329262.0,79.496,August
+Air India,2019,9,10344,1301642.0,78.14,September
+Air India,2019,10,11262,1352701.0,74.77,October
+Air India,2019,11,10449,1377244.0,81.821,November
+Air India,2019,12,10377,1349814.0,79.351,December
+Air India,2020,1,10454,1285138.0,76.542,January
+Air India,2020,2,9921,1283574.0,80.92,February
+Air India,2020,3,7495,722474.0,62.444,March
+Air India,2020,5,457,41595.0,50.139,May
+Air India,2020,6,2211,197747.0,52.081,June
+Air India,2020,7,2260,142583.0,41.129,July
+Air India,2020,8,2589,224999.0,59.657,August
+Air India,2020,9,3519,318320.0,58.054,September
+Air India,2020,10,4518,426369.0,62.285,October
+Air India,2020,11,5081,558588.0,69.758,November
+Air India,2020,12,5857,627009.0,66.305,December
+Air India,2021,1,6365,672139.0,65.632,January
+Air India,2021,2,6285,786746.0,78.244,February
+Air India,2021,3,7102,785520.0,70.657,March
+Air India,2021,4,6803,544067.0,52.246,April
+Air India,2021,5,5384,321041.0,39.578,May
+Air India,2021,6,4172,376800.0,59.06,June
+Air India,2021,7,4940,489993.0,64.832,July
+Air India,2021,8,6042,648329.0,68.817,August
+Air India,2021,9,6113,598097.0,63.669,September
+Air India,2021,10,7405,859763.0,75.667,October
+Air India,2021,11,7294,945717.0,81.225,November
+Air India,2021,12,7810,935686.0,76.455,December
+Air India,2022,1,7187,655809.0,59.17,January
+Air India,2022,2,6512,855249.0,82.41,February
+Air India,2022,3,7172,936381.0,83.628,March
+Air India,2022,4,6716,826023.0,79.543,April
+Air India,2022,5,6667,822814.0,80.495,May
+Air India,2022,6,6824,783479.0,75.414,June
+Air India,2022,7,7464,814028.0,71.08,July
+Air India,2022,8,7591,861329.0,73.627,August
+Air India,2022,9,7689,948637.0,79.631,September
+Air India,2022,10,7973,1037506.0,82.661,October
+Air India,2022,11,7761,1062524.0,85.696,November
+Air India,2022,12,8239,1170659.0,89.34,December
+Air India,2023,1,8295,1154581.0,87.493,January
+Air India,2023,2,7624,1076299.0,88.973,February
+Air India,2023,3,8434,1139044.0,85.124,March
+Air India,2023,4,8062,1112789.0,87.901,April
+Air India,2023,5,8763,1244034.0,90.029,May
+Air India,2023,6,8676,1212719.0,88.25,June
+Air India,2023,7,8958,1198026.0,84.179,July
+Air India,2023,8,9027,1211611.0,84.554,August
+Air India,2023,9,8622,1174442.0,84.918,September
+Air India,2023,10,8776,1222165.0,85.94,October
+Air India,2023,11,8306,1189143.0,85.36,November
+Air India,2023,12,8981,1339630.0,88.476,December
+Air India,2024,1,8932,1336709.0,88.146,January
+Air India,2024,2,8683,1332374.0,88.228,February
+Air India,2024,3,9405,1409012.0,85.282,March
+Air India,2024,4,9400,1458158.0,84.968,April
+Air India,2024,5,9761,1564289.0,87.594,May
+Air India,2024,6,9752,1498868.0,84.194,June
+Air India,2024,7,10253,1542638.0,82.289,July
+Air India,2024,8,10289,1521012.0,81.063,August
+Air India,2024,9,9851,1451744.0,81.264,September
+Air India,2024,10,10121,1471093.0,80.29,October
+Air India,2024,11,14897,2251104.0,87.059,November
+Air India,2024,12,17960,2604182.0,83.716,December
+Air India,2025,1,16899,2422796.0,83.88,January
+Air India,2025,2,16212,2406210.0,87.48,February
+Air India,2025,3,16855,2303093.0,80.4,March
+Air India,2025,4,15882,2180617.0,82.23,April
+Air India,2025,5,16010,2093391.0,78.35,May
+Air India,2025,6,15545,2098185.0,81.28,June
+Air India,2025,7,14105,1870732.0,78.52,July
+Air India,2025,8,14249,1986947.0,81.9,August
+Air India,2025,9,14747,2008330.0,79.27,September
+Air India,2025,10,15738,2056159.0,75.46,October
+Air India,2025,11,15602,2357226.0,89.08,November
+Air India,2025,12,15551,2389728.0,89.91,December
+Air India,2026,1,15435,2297474.0,86.57,January
+Air India,2026,2,14477,2188779.0,88.37,February
+Air India,2026,3,15759,2168434.0,81.58,March
+Air India,2026,4,15082,1949625.0,76.79,April
+Air India Express,2015,1,71,14633.0,84.234,January
+Air India Express,2015,2,63,12083.0,69.235,February
+Air India Express,2015,3,58,8430.0,56.292,March
+Air India Express,2015,4,55,13226.0,74.543,April
+Air India Express,2015,5,66,18674.0,93.827,May
+Air India Express,2015,6,68,15851.0,85.129,June
+Air India Express,2015,7,11,13999.0,78.159,July
+Air India Express,2015,8,64,17014.0,89.827,August
+Air India Express,2015,9,66,15460.0,82.557,September
+Air India Express,2015,10,43,11644.0,77.741,October
+Air India Express,2015,11,36,9807.0,80.968,November
+Air India Express,2015,12,56,10568.0,62.255,December
+Air India Express,2016,1,169,9535.0,62.312,January
+Air India Express,2016,2,144,6724.0,53.495,February
+Air India Express,2016,3,156,6715.0,54.652,March
+Air India Express,2016,4,146,6740.0,55.579,April
+Air India Express,2016,5,170,12727.0,74.013,May
+Air India Express,2016,6,145,7897.0,66.913,June
+Air India Express,2016,7,150,7740.0,71.702,July
+Air India Express,2016,8,152,9139.0,69.841,August
+Air India Express,2016,9,146,9666.0,74.835,September
+Air India Express,2016,10,192,11707.0,54.156,October
+Air India Express,2016,11,205,13865.0,54.457,November
+Air India Express,2016,12,167,10308.0,65.885,December
+Air India Express,2017,1,211,9970.0,50.964,January
+Air India Express,2017,2,165,6105.0,40.304,February
+Air India Express,2017,3,156,5017.0,38.157,March
+Air India Express,2017,4,150,6895.0,46.741,April
+Air India Express,2017,5,150,7818.0,51.466,May
+Air India Express,2017,6,151,4174.0,36.266,June
+Air India Express,2017,7,159,4723.0,40.371,July
+Air India Express,2017,8,168,5224.0,45.727,August
+Air India Express,2017,9,181,9559.0,56.57,September
+Air India Express,2017,10,208,13660.0,61.751,October
+Air India Express,2017,11,189,10515.0,56.826,November
+Air India Express,2017,12,214,15888.0,63.447,December
+Air India Express,2018,1,211,16417.0,61.944,January
+Air India Express,2018,2,216,16920.0,67.552,February
+Air India Express,2018,3,243,18994.0,72.332,March
+Air India Express,2018,4,250,18590.0,66.356,April
+Air India Express,2018,5,240,17789.0,73.342,May
+Air India Express,2018,6,251,13637.0,65.223,June
+Air India Express,2018,7,252,14499.0,62.1,July
+Air India Express,2018,8,203,16703.0,68.865,August
+Air India Express,2018,9,226,15855.0,66.591,September
+Air India Express,2018,10,263,15386.0,57.321,October
+Air India Express,2018,11,292,17038.0,60.334,November
+Air India Express,2018,12,300,19040.0,65.742,December
+Air India Express,2019,1,294,18115.0,65.784,January
+Air India Express,2019,2,256,14354.0,62.211,February
+Air India Express,2019,3,277,13074.0,55.772,March
+Air India Express,2019,4,276,17066.0,64.522,April
+Air India Express,2019,5,291,15861.0,60.977,May
+Air India Express,2019,6,287,14298.0,58.011,June
+Air India Express,2019,7,293,12757.0,50.933,July
+Air India Express,2019,8,298,14903.0,59.278,August
+Air India Express,2019,9,286,13572.0,54.605,September
+Air India Express,2019,10,220,14043.0,59.696,October
+Air India Express,2019,11,286,16085.0,66.027,November
+Air India Express,2019,12,294,17955.0,73.918,December
+Air India Express,2020,1,293,15335.0,65.475,January
+Air India Express,2020,2,275,15345.0,70.072,February
+Air India Express,2020,3,200,10072.0,57.093,March
+Air India Express,2020,5,29,332.0,14.552,May
+Air India Express,2020,6,67,3244.0,31.409,June
+Air India Express,2020,7,53,1732.0,19.004,July
+Air India Express,2020,8,29,1361.0,13.857,August
+Air India Express,2020,9,26,999.0,21.174,September
+Air India Express,2020,10,38,1786.0,27.449,October
+Air India Express,2020,11,66,3990.0,34.467,November
+Air India Express,2020,12,55,3834.0,37.962,December
+Air India Express,2021,1,44,3075.0,38.188,January
+Air India Express,2021,2,28,1712.0,33.709,February
+Air India Express,2021,3,16,689.0,23.655,March
+Air India Express,2021,10,4,271.0,71.774,October
+Air India Express,2021,11,76,7517.0,52.052,November
+Air India Express,2021,12,70,7314.0,55.165,December
+Air India Express,2022,1,36,2514.0,37.435,January
+Air India Express,2022,3,4,277.0,36.022,March
+Air India Express,2022,4,26,2372.0,48.821,April
+Air India Express,2022,5,26,3227.0,66.439,May
+Air India Express,2022,6,22,1912.0,46.212,June
+Air India Express,2022,10,8,972.0,64.651,October
+Air India Express,2023,9,173,23727.0,76.301,September
+Air India Express,2023,10,731,106111.0,82.47,October
+Air India Express,2023,11,1036,145064.0,80.444,November
+Air India Express,2023,12,1398,204851.0,83.41,December
+Air India Express,2024,1,1824,262203.0,83.014,January
+Air India Express,2024,2,2032,284271.0,81.545,February
+Air India Express,2024,3,2499,338108.0,79.656,March
+Air India Express,2024,4,2976,422278.0,82.23,April
+Air India Express,2024,5,2233,328320.0,84.537,May
+Air India Express,2024,6,2844,423233.0,86.639,June
+Air India Express,2024,7,2283,317746.0,81.883,July
+Air India Express,2024,8,3094,408361.0,76.783,August
+Air India Express,2024,9,3859,517124.0,77.001,September
+Air India Express,2024,10,8193,1177057.0,81.552,October
+Air India Express,2024,11,7951,1221495.0,87.869,November
+Air India Express,2024,12,8714,1342308.0,86.913,December
+Air India Express,2025,1,8829,1335289.0,85.34,January
+Air India Express,2025,2,9362,1423613.0,86.59,February
+Air India Express,2025,3,11068,1575238.0,80.78,March
+Air India Express,2025,4,11433,1709127.0,84.87,April
+Air India Express,2025,5,11050,1628871.0,82.95,May
+Air India Express,2025,6,11095,1594172.0,81.83,June
+Air India Express,2025,7,10223,1437558.0,79.55,July
+Air India Express,2025,8,10677,1552028.0,81.61,August
+Air India Express,2025,9,10342,1459007.0,79.72,September
+Air India Express,2025,10,10964,1547851.0,80.05,October
+Air India Express,2025,11,11291,1717758.0,85.29,November
+Air India Express,2025,12,11528,1839572.0,88.9,December
+Air India Express,2026,1,11270,1736876.0,86.3,January
+Air India Express,2026,2,10196,1605622.0,88.26,February
+Air India Express,2026,3,10947,1604684.0,83.34,March
+Air India Express,2026,4,10265,1460627.0,80.97,April
+Air Odisha,2018,2,8,42.0,29.24,February
+Air Odisha,2018,3,16,75.0,26.201,March
+Air Odisha,2018,4,134,666.0,26.027,April
+Air Odisha,2018,5,156,867.0,32.063,May
+Air Odisha,2018,6,72,468.0,33.49,June
+Air Odisha,2018,7,24,186.0,6.697,July
+Air Odisha,2018,8,146,553.0,24.938,August
+Air Odisha,2018,9,64,295.0,0.0,September
+Air Pegasus,2015,5,124,6348.0,77.953,May
+Air Pegasus,2015,6,196,9353.0,73.134,June
+Air Pegasus,2015,7,234,10749.0,71.515,July
+Air Pegasus,2015,8,292,14480.0,77.078,August
+Air Pegasus,2015,9,318,15271.0,73.23,September
+Air Pegasus,2015,10,383,19484.0,77.288,October
+Air Pegasus,2015,11,440,22296.0,78.08,November
+Air Pegasus,2015,12,384,20554.0,82.615,December
+Air Pegasus,2016,1,428,23487.0,83.776,January
+Air Pegasus,2016,2,340,19135.0,85.418,February
+Air Pegasus,2016,3,284,14420.0,76.563,March
+Air Pegasus,2016,4,398,20385.0,78.099,April
+Air Pegasus,2016,5,398,21015.0,80.031,May
+Air Pegasus,2016,6,278,14296.0,75.21,June
+Air Pegasus,2016,7,256,14231.0,83.951,July
+Air Taxi,2021,1,24,27.0,37.499,January
+Air Taxi,2021,2,125,77.0,21.135,February
+Air Taxi,2021,3,114,79.0,22.176,March
+Air Taxi,2021,4,34,31.0,29.682,April
+Air Taxi,2021,5,72,82.0,37.578,May
+Air Taxi,2021,6,59,56.0,32.276,June
+Air Taxi,2021,7,48,52.0,37.548,July
+AirAsia India,2015,1,598,81434.0,76.271,January
+AirAsia India,2015,2,526,72278.0,77.852,February
+AirAsia India,2015,3,546,68790.0,71.675,March
+AirAsia India,2015,4,536,72313.0,74.412,April
+AirAsia India,2015,5,646,93778.0,81.356,May
+AirAsia India,2015,6,846,125721.0,83.998,June
+AirAsia India,2015,7,989,142636.0,80.228,July
+AirAsia India,2015,8,1026,134408.0,72.12,August
+AirAsia India,2015,9,1017,124861.0,67.686,September
+AirAsia India,2015,10,1048,150139.0,80.601,October
+AirAsia India,2015,11,1098,161812.0,82.983,November
+AirAsia India,2015,12,1230,181483.0,82.728,December
+AirAsia India,2016,1,1196,174996.0,81.921,January
+AirAsia India,2016,2,1084,166829.0,86.772,February
+AirAsia India,2016,3,1216,176832.0,82.666,March
+AirAsia India,2016,4,1110,167422.0,84.814,April
+AirAsia India,2016,5,1218,190379.0,86.76,May
+AirAsia India,2016,6,1080,173192.0,90.175,June
+AirAsia India,2016,7,1232,190509.0,85.723,July
+AirAsia India,2016,8,1236,187620.0,83.347,August
+AirAsia India,2016,9,1260,187920.0,82.824,September
+AirAsia India,2016,10,1666,235607.0,78.276,October
+AirAsia India,2016,11,1634,251322.0,86.911,November
+AirAsia India,2016,12,1816,277261.0,86.275,December
+AirAsia India,2018,1,3264,489432.0,84.468,January
+AirAsia India,2018,2,2933,455887.0,88.011,February
+AirAsia India,2018,3,3625,523568.0,82.049,March
+AirAsia India,2018,4,3731,579203.0,87.49,April
+AirAsia India,2018,5,4078,647586.0,89.727,May
+AirAsia India,2018,6,3849,600731.0,74.039,June
+AirAsia India,2018,7,3885,557633.0,80.386,July
+AirAsia India,2018,8,3916,537079.0,76.602,August
+AirAsia India,2018,9,3861,498138.0,71.188,September
+AirAsia India,2018,10,4315,643358.0,83.695,October
+AirAsia India,2018,11,3969,617740.0,88.225,November
+AirAsia India,2018,12,4213,673179.0,89.625,December
+AirAsia India,2019,1,4190,666971.0,89.486,January
+AirAsia India,2019,2,3528,583216.0,92.939,February
+AirAsia India,2019,3,4358,686701.0,88.51,March
+AirAsia India,2019,4,4461,677989.0,87.473,April
+AirAsia India,2019,5,4860,768200.0,88.527,May
+AirAsia India,2019,6,4770,771955.0,90.711,June
+AirAsia India,2019,7,4835,770996.0,89.548,July
+AirAsia India,2019,8,4897,762998.0,87.833,August
+AirAsia India,2019,9,4827,725467.0,84.731,September
+AirAsia India,2019,10,5415,803242.0,83.042,October
+AirAsia India,2019,11,5682,877973.0,87.191,November
+AirAsia India,2019,12,6120,911052.0,84.34,December
+AirAsia India,2020,1,6303,882765.0,79.305,January
+AirAsia India,2020,2,6096,896653.0,83.61,February
+AirAsia India,2020,3,4911,591780.0,69.115,March
+AirAsia India,2020,5,267,21941.0,45.999,May
+AirAsia India,2020,6,1373,139934.0,56.54,June
+AirAsia India,2020,7,1301,129780.0,56.15,July
+AirAsia India,2020,8,1719,192401.0,64.435,August
+AirAsia India,2020,9,2239,234679.0,58.381,September
+AirAsia India,2020,10,3311,373616.0,62.974,October
+AirAsia India,2020,11,3541,421272.0,66.269,November
+AirAsia India,2020,12,4324,502311.0,65.112,December
+AirAsia India,2021,1,4495,531578.0,66.83,January
+AirAsia India,2021,2,4340,520603.0,67.891,February
+AirAsia India,2021,3,4727,541512.0,65.132,March
+AirAsia India,2021,4,3195,354878.0,64.019,April
+AirAsia India,2021,5,809,63532.0,44.38,May
+AirAsia India,2021,6,1081,106632.0,54.446,June
+AirAsia India,2021,7,1721,164608.0,53.585,July
+AirAsia India,2021,8,3292,348656.0,60.326,August
+AirAsia India,2021,9,3475,412671.0,68.017,September
+AirAsia India,2021,10,4387,571707.0,73.735,October
+AirAsia India,2021,11,4746,622726.0,74.628,November
+AirAsia India,2021,12,5347,701054.0,74.185,December
+AirAsia India,2022,1,2851,295094.0,60.481,January
+AirAsia India,2022,2,3030,445563.0,83.198,February
+AirAsia India,2022,3,4863,698450.0,81.264,March
+AirAsia India,2022,4,4290,591907.0,79.639,April
+AirAsia India,2022,5,4949,686362.0,79.384,May
+AirAsia India,2022,6,4486,589510.0,75.814,June
+AirAsia India,2022,7,3453,442126.0,75.153,July
+AirAsia India,2022,8,4471,587836.0,74.912,August
+AirAsia India,2022,9,4437,613867.0,77.021,September
+AirAsia India,2022,10,5758,866548.0,84.172,October
+AirAsia India,2022,11,5688,884584.0,87.323,November
+AirAsia India,2022,12,6071,971221.0,89.84,December
+AirAsia India,2023,1,5991,930093.0,87.019,January
+AirAsia India,2023,2,5276,846141.0,89.485,February
+AirAsia India,2023,3,6193,976060.0,88.572,March
+AirAsia India,2023,4,6108,981066.0,89.402,April
+AirAsia India,2023,5,6253,1040605.0,92.82,May
+AirAsia India,2023,6,6135,1003619.0,91.801,June
+AirAsia India,2023,7,6106,901471.0,82.266,July
+AirAsia India,2023,8,5941,878453.0,82.4,August
+AirAsia India,2023,9,5520,815677.0,82.505,September
+AirAsia India,2023,10,5622,832328.0,83.374,October
+AirAsia India,2023,11,5465,835856.0,85.316,November
+AirAsia India,2023,12,5352,852107.0,89.125,December
+Akasa Air,2022,8,246,23744.0,52.872,August
+Akasa Air,2022,9,623,92589.0,81.248,September
+Akasa Air,2022,10,1155,160617.0,77.466,October
+Akasa Air,2022,11,1483,206775.0,79.249,November
+Akasa Air,2022,12,1977,292393.0,83.818,December
+Akasa Air,2023,1,2448,356550.0,82.852,January
+Akasa Air,2023,2,2469,361135.0,83.714,February
+Akasa Air,2023,3,3199,419911.0,73.603,March
+Akasa Air,2023,4,3322,513025.0,84.909,April
+Akasa Air,2023,5,3820,629045.0,91.138,May
+Akasa Air,2023,6,3787,618053.0,91.109,June
+Akasa Air,2023,7,4017,624086.0,86.636,July
+Akasa Air,2023,8,3369,526972.0,87.271,August
+Akasa Air,2023,9,3224,517170.0,88.071,September
+Akasa Air,2023,10,3330,524439.0,86.615,October
+Akasa Air,2023,11,3270,536309.0,89.409,November
+Akasa Air,2023,12,3518,602655.0,93.894,December
+Akasa Air,2024,1,3542,595767.0,92.39,January
+Akasa Air,2024,2,3378,567507.0,92.065,February
+Akasa Air,2024,3,3664,590036.0,88.474,March
+Akasa Air,2024,4,3605,579539.0,87.877,April
+Akasa Air,2024,5,3937,663762.0,90.391,May
+Akasa Air,2024,6,3845,634429.0,89.615,June
+Akasa Air,2024,7,3808,604187.0,86.426,July
+Akasa Air,2024,8,3718,591857.0,85.524,August
+Akasa Air,2024,9,3563,572972.0,85.865,September
+Akasa Air,2024,10,3841,615370.0,85.678,October
+Akasa Air,2024,11,3881,672121.0,92.579,November
+Akasa Air,2024,12,3920,686835.0,93.301,December
+Akasa Air,2025,1,3902,685848.0,93.78,January
+Akasa Air,2025,2,3681,657633.0,95.15,February
+Akasa Air,2025,3,4135,719271.0,92.51,March
+Akasa Air,2025,4,4066,712182.0,93.03,April
+Akasa Air,2025,5,4343,746531.0,91.46,May
+Akasa Air,2025,6,4210,722093.0,91.37,June
+Akasa Air,2025,7,4105,697509.0,90.17,July
+Akasa Air,2025,8,4121,702582.0,90.97,August
+Akasa Air,2025,9,3857,664811.0,91.79,September
+Akasa Air,2025,10,4230,724662.0,91.2,October
+Akasa Air,2025,11,4083,721879.0,93.81,November
+Akasa Air,2025,12,4117,739061.0,95.3,December
+Akasa Air,2026,1,4144,727727.0,93.21,January
+Akasa Air,2026,2,3903,687287.0,93.32,February
+Akasa Air,2026,3,4560,778132.0,90.54,March
+Akasa Air,2026,4,4593,791273.0,91.74,April
+Alliance Air,2015,1,581,19612.0,67.261,January
+Alliance Air,2015,2,669,22047.0,65.559,February
+Alliance Air,2015,3,774,25651.0,64.654,March
+Alliance Air,2015,4,900,33047.0,69.259,April
+Alliance Air,2015,5,1029,38835.0,72.06,May
+Alliance Air,2015,6,938,31659.0,65.277,June
+Alliance Air,2015,7,946,30552.0,60.736,July
+Alliance Air,2015,8,854,29539.0,62.238,August
+Alliance Air,2015,9,898,29211.0,62.329,September
+Alliance Air,2015,10,851,36433.0,68.224,October
+Alliance Air,2015,11,934,34705.0,70.686,November
+Alliance Air,2015,12,827,33139.0,72.196,December
+Alliance Air,2016,1,884,29601.0,64.447,January
+Alliance Air,2016,2,775,35835.0,66.036,February
+Alliance Air,2016,3,960,37784.0,64.934,March
+Alliance Air,2016,4,918,44691.0,69.567,April
+Alliance Air,2016,5,1005,50046.0,70.887,May
+Alliance Air,2016,6,955,44202.0,65.504,June
+Alliance Air,2016,7,1045,47610.0,65.197,July
+Alliance Air,2016,8,1160,54618.0,66.933,August
+Alliance Air,2016,9,1169,52990.0,65.834,September
+Alliance Air,2016,10,1174,57813.0,69.243,October
+Alliance Air,2016,11,1117,58611.0,73.528,November
+Alliance Air,2016,12,955,53803.0,74.53,December
+Alliance Air,2017,1,1027,53021.0,68.235,January
+Alliance Air,2017,2,1005,51519.0,69.739,February
+Alliance Air,2017,3,1156,56487.0,67.764,March
+Alliance Air,2017,4,1209,63087.0,72.229,April
+Alliance Air,2017,5,1309,71136.0,74.698,May
+Alliance Air,2017,6,1264,72723.0,75.888,June
+Alliance Air,2017,7,1441,83846.0,76.455,July
+Alliance Air,2017,8,1441,88714.0,77.472,August
+Alliance Air,2017,9,1730,105919.0,78.781,September
+Alliance Air,2017,10,1989,120496.0,76.243,October
+Alliance Air,2017,11,2033,124946.0,78.148,November
+Alliance Air,2017,12,2095,141201.0,82.229,December
+Alliance Air,2018,1,2013,134627.0,81.649,January
+Alliance Air,2018,2,2000,132115.0,82.049,February
+Alliance Air,2018,3,2304,142441.0,76.176,March
+Alliance Air,2018,4,2255,139655.0,76.348,April
+Alliance Air,2018,5,2320,137718.0,72.942,May
+Alliance Air,2018,6,2152,131358.0,72.548,June
+Alliance Air,2018,7,2259,134169.0,72.072,July
+Alliance Air,2018,8,2358,132970.0,68.464,August
+Alliance Air,2018,9,2396,129952.0,65.042,September
+Alliance Air,2018,10,2369,123014.0,65.534,October
+Alliance Air,2018,11,2439,129339.0,68.006,November
+Alliance Air,2018,12,3201,143712.0,69.238,December
+Alliance Air,2019,1,2606,138705.0,65.695,January
+Alliance Air,2019,2,2214,127312.0,69.047,February
+Alliance Air,2019,3,2414,129478.0,64.399,March
+Alliance Air,2019,4,2385,134597.0,67.753,April
+Alliance Air,2019,5,2617,152294.0,70.533,May
+Alliance Air,2019,6,2494,147259.0,70.904,June
+Alliance Air,2019,7,2469,135724.0,66.618,July
+Alliance Air,2019,8,2603,134431.0,63.785,August
+Alliance Air,2019,9,2667,135642.0,62.731,September
+Alliance Air,2019,10,2700,145086.0,65.981,October
+Alliance Air,2019,11,2507,134676.0,65.909,November
+Alliance Air,2019,12,2690,145520.0,66.121,December
+Alliance Air,2020,1,2684,142268.0,64.443,January
+Alliance Air,2020,2,2735,145354.0,65.112,February
+Alliance Air,2020,3,1987,82612.0,51.406,March
+Alliance Air,2020,5,212,3772.0,23.188,May
+Alliance Air,2020,6,1422,36092.0,33.289,June
+Alliance Air,2020,7,1540,41967.0,33.664,July
+Alliance Air,2020,8,1229,45544.0,41.557,August
+Alliance Air,2020,9,1260,49709.0,41.775,September
+Alliance Air,2020,10,1386,63236.0,46.549,October
+Alliance Air,2020,11,1600,82656.0,57.111,November
+Alliance Air,2020,12,1787,99226.0,62.062,December
+Alliance Air,2021,1,1652,92039.0,61.449,January
+Alliance Air,2021,2,1660,95469.0,65.271,February
+Alliance Air,2021,3,1809,95563.0,57.904,March
+Alliance Air,2021,4,1530,63147.0,43.922,April
+Alliance Air,2021,5,1042,29756.0,30.972,May
+Alliance Air,2021,6,1217,52874.0,47.076,June
+Alliance Air,2021,7,2185,70363.0,54.476,July
+Alliance Air,2021,8,2336,80491.0,57.336,August
+Alliance Air,2021,9,2499,91031.0,60.178,September
+Alliance Air,2021,10,2572,107718.0,68.736,October
+Alliance Air,2021,11,2907,120306.0,68.461,November
+Alliance Air,2021,12,3085,125358.0,66.987,December
+Alliance Air,2022,1,2745,79509.0,48.545,January
+Alliance Air,2022,2,2620,111715.0,71.898,February
+Alliance Air,2022,3,3209,145441.0,73.999,March
+Alliance Air,2022,4,2907,120306.0,66.918,April
+Alliance Air,2022,5,3085,125358.0,65.51,May
+Alliance Air,2022,6,2907,120306.0,66.918,June
+Alliance Air,2022,7,2620,111715.0,71.898,July
+Alliance Air,2022,8,3085,125358.0,66.987,August
+Alliance Air,2022,9,2907,120306.0,68.461,September
+Alliance Air,2022,10,3619,139768.0,62.004,October
+Alliance Air,2022,11,3548,144477.0,67.284,November
+Alliance Air,2022,12,4025,169217.0,69.991,December
+Alliance Air,2023,1,3729,151400.0,66.01,January
+Alliance Air,2023,2,3310,133815.0,64.932,February
+Alliance Air,2023,3,3548,133282.0,65.541,March
+Alliance Air,2023,4,3392,141648.0,69.291,April
+Alliance Air,2023,5,3708,184966.0,80.282,May
+Alliance Air,2023,6,3165,144033.0,73.474,June
+Alliance Air,2023,7,2956,123706.0,68.269,July
+Alliance Air,2023,8,2906,124526.0,69.963,August
+Alliance Air,2023,9,2880,119632.0,68.605,September
+Alliance Air,2023,10,2973,129759.0,71.724,October
+Alliance Air,2023,11,2759,123592.0,72.984,November
+Alliance Air,2023,12,2804,130927.0,77.043,December
+Alliance Air,2024,1,2712,132650.0,80.115,January
+Alliance Air,2024,2,2664,129279.0,79.063,February
+Alliance Air,2024,3,2968,140154.0,78.093,March
+Alliance Air,2024,4,2708,127836.0,79.053,April
+Alliance Air,2024,5,2837,135176.0,79.382,May
+Alliance Air,2024,6,2869,133913.0,78.628,June
+Alliance Air,2024,7,2640,120815.0,75.621,July
+Alliance Air,2024,8,2581,115010.0,73.315,August
+Alliance Air,2024,9,2302,101886.0,73.114,September
+Alliance Air,2024,10,2264,98107.0,73.864,October
+Alliance Air,2024,11,2121,96860.0,74.462,November
+Alliance Air,2024,12,2069,99952.0,77.685,December
+Alliance Air,2025,1,1953,90895.0,77.64,January
+Alliance Air,2025,2,1710,85992.0,83.03,February
+Alliance Air,2025,3,1697,77945.0,75.91,March
+Alliance Air,2025,4,1637,75957.0,75.81,April
+Alliance Air,2025,5,1420,62159.0,73.96,May
+Alliance Air,2025,6,1630,66355.0,67.91,June
+Alliance Air,2025,7,1254,46012.0,62.74,July
+Alliance Air,2025,8,966,37473.0,68.72,August
+Alliance Air,2025,9,1094,43562.0,66.87,September
+Alliance Air,2025,10,701,29206.0,68.25,October
+Alliance Air,2025,11,1415,57557.0,63.71,November
+Alliance Air,2025,12,1276,57030.0,71.02,December
+Alliance Air,2026,1,1378,57459.0,64.77,January
+Alliance Air,2026,2,1309,53796.0,65.83,February
+Alliance Air,2026,3,1214,45672.0,60.64,March
+Alliance Air,2026,4,1156,42677.0,61.15,April
+Fly91,2024,3,38,1351.0,49.689,March
+Fly91,2024,4,130,4454.0,52.633,April
+Fly91,2024,5,225,9474.0,69.785,May
+Fly91,2024,6,263,9736.0,51.915,June
+Fly91,2024,7,276,10200.0,58.85,July
+Fly91,2024,8,388,14846.0,58.882,August
+Fly91,2024,9,374,15537.0,62.633,September
+Fly91,2024,10,381,17042.0,68.086,October
+Fly91,2024,11,389,20308.0,73.791,November
+Fly91,2024,12,431,24230.0,82.745,December
+Fly91,2025,1,373,20612.0,81.99,January
+Fly91,2025,2,210,11757.0,82.95,February
+Fly91,2025,3,242,12327.0,76.41,March
+Fly91,2025,4,392,20369.0,82.62,April
+Fly91,2025,5,434,24385.0,87.58,May
+Fly91,2025,6,484,22196.0,71.22,June
+Fly91,2025,7,544,24901.0,69.98,July
+Fly91,2025,8,563,28438.0,77.25,August
+Fly91,2025,9,530,27367.0,77.96,September
+Fly91,2025,10,576,32953.0,86.11,October
+Fly91,2025,11,583,33600.0,84.49,November
+Fly91,2025,12,631,37111.0,86.08,December
+Fly91,2026,1,588,33186.0,82.84,January
+Fly91,2026,2,467,24785.0,79.85,February
+Fly91,2026,3,679,33059.0,72.89,March
+Fly91,2026,4,845,38616.0,65.67,April
+Flybig,2021,1,56,1717.0,42.951,January
+Flybig,2021,2,80,2921.0,50.879,February
+Flybig,2021,3,90,2600.0,40.627,March
+Flybig,2021,4,68,1765.0,34.701,April
+Flybig,2021,5,54,1323.0,25.767,May
+Flybig,2021,6,96,3253.0,40.557,June
+Flybig,2021,7,144,4982.0,45.221,July
+Flybig,2021,8,164,5663.0,47.035,August
+Flybig,2021,9,174,5571.0,43.844,September
+Flybig,2021,10,177,8398.0,64.799,October
+Flybig,2021,11,236,10081.0,60.174,November
+Flybig,2021,12,243,10244.0,61.169,December
+Flybig,2022,1,230,6962.0,43.041,January
+Flybig,2022,2,258,9930.0,54.693,February
+Flybig,2022,3,366,13096.0,50.879,March
+Flybig,2022,4,398,16164.0,55.994,April
+Flybig,2022,5,519,23803.0,62.466,May
+Flybig,2022,6,590,23027.0,54.151,June
+Flybig,2022,7,632,21775.0,46.79,July
+Flybig,2022,8,447,16357.0,49.957,August
+Flybig,2022,9,430,16702.0,54.719,September
+Flybig,2022,10,579,26948.0,67.388,October
+Flybig,2022,11,540,25675.0,68.167,November
+Flybig,2022,12,581,28680.0,70.752,December
+Flybig,2023,1,565,21729.0,56.271,January
+Flybig,2023,2,486,18249.0,56.351,February
+Flybig,2023,3,405,16483.0,60.448,March
+Flybig,2023,4,452,19895.0,62.873,April
+Flybig,2023,5,459,16260.0,52.19,May
+Flybig,2023,6,543,22277.0,58.356,June
+Flybig,2023,7,580,24935.0,59.098,July
+Flybig,2023,8,569,23400.0,58.245,August
+Flybig,2023,9,547,24624.0,72.107,September
+Flybig,2023,10,429,18700.0,72.42,October
+Flybig,2023,11,133,3831.0,67.932,November
+Flybig,2023,12,46,206.0,24.964,December
+Flybig,2024,1,31,84.0,15.35,January
+Flybig,2024,2,83,362.0,24.733,February
+Flybig,2024,3,137,968.0,39.06,March
+Flybig,2024,4,198,1125.0,33.214,April
+Flybig,2024,5,229,1605.0,38.027,May
+Flybig,2024,6,244,1908.0,43.454,June
+Flybig,2024,7,280,1011.0,19.528,July
+Flybig,2024,8,300,2013.0,35.657,August
+Flybig,2024,9,283,1792.0,32.92,September
+Flybig,2024,10,308,2037.0,33.171,October
+Flybig,2024,11,200,1446.0,35.588,November
+Flybig,2024,12,294,1137.0,20.883,December
+Flybig,2025,1,269,1050.0,22.69,January
+Flybig,2025,2,157,707.0,27.15,February
+Flybig,2025,3,229,1161.0,26.42,March
+Flybig,2025,4,237,1415.0,30.25,April
+Flybig,2025,5,313,1864.0,28.55,May
+Flybig,2025,6,269,1186.0,21.77,June
+Flybig,2025,7,257,928.0,19.47,July
+Flybig,2025,8,198,990.0,26.77,August
+Flybig,2025,9,163,610.0,20.07,September
+Flybig,2025,10,78,275.0,21.45,October
+Go First,2015,1,3947,552971.0,79.214,January
+Go First,2015,2,3545,534795.0,85.897,February
+Go First,2015,3,3907,550969.0,80.018,March
+Go First,2015,4,3808,574464.0,85.541,April
+Go First,2015,5,3892,612994.0,89.366,May
+Go First,2015,6,3827,572147.0,83.581,June
+Go First,2015,7,3909,566402.0,81.2,July
+Go First,2015,8,4072,549462.0,75.586,August
+Go First,2015,9,4085,579120.0,79.828,September
+Go First,2015,10,4132,594406.0,81.228,October
+Go First,2015,11,4088,602623.0,83.455,November
+Go First,2015,12,4200,639264.0,86.502,December
+Go First,2016,1,4116,618650.0,84.872,January
+Go First,2016,2,3923,595139.0,86.354,February
+Go First,2016,3,4308,655518.0,86.327,March
+Go First,2016,4,4349,676012.0,87.764,April
+Go First,2016,5,4490,700766.0,88.585,May
+Go First,2016,6,4431,663991.0,84.578,June
+Go First,2016,7,4507,716125.0,90.281,July
+Go First,2016,8,4449,674131.0,86.046,August
+Go First,2016,9,4380,686692.0,89.42,September
+Go First,2016,10,4651,688261.0,84.39,October
+Go First,2016,11,4674,719566.0,87.26,November
+Go First,2016,12,4886,780622.0,90.717,December
+Go First,2017,1,4945,788337.0,90.81,January
+Go First,2017,2,4673,749352.0,90.908,February
+Go First,2017,3,5392,802114.0,84.771,March
+Go First,2017,4,5005,739401.0,84.665,April
+Go First,2017,5,5334,863570.0,92.953,May
+Go First,2017,6,5155,805483.0,89.432,June
+Go First,2017,7,5113,741855.0,82.495,July
+Go First,2017,8,5187,775836.0,85.409,August
+Go First,2017,9,5165,808539.0,88.539,September
+Go First,2017,10,5930,924189.0,87.629,October
+Go First,2017,11,5819,933709.0,89.989,November
+Go First,2017,12,6601,1080481.0,92.003,December
+Go First,2018,1,6829,1095127.0,90.031,January
+Go First,2018,2,6357,1020977.0,90.392,February
+Go First,2018,3,6641,1039974.0,87.996,March
+Go First,2018,4,6349,1009963.0,89.522,April
+Go First,2018,5,6542,1034197.0,89.159,May
+Go First,2018,6,6663,1054793.0,88.584,June
+Go First,2018,7,6537,1026758.0,87.185,July
+Go First,2018,8,6687,1014015.0,84.609,August
+Go First,2018,9,6086,989309.0,90.59,September
+Go First,2018,10,6902,1047651.0,84.101,October
+Go First,2018,11,6502,1019398.0,87.579,November
+Go First,2018,12,6853,1111770.0,88.506,December
+Go First,2019,1,6813,1087717.0,87.386,January
+Go First,2019,2,6037,1026676.0,92.554,February
+Go First,2019,3,6862,1148587.0,91.386,March
+Go First,2019,4,7143,1190386.0,90.832,April
+Go First,2019,5,8119,1355072.0,93.311,May
+Go First,2019,6,7889,1330396.0,94.039,June
+Go First,2019,7,8192,1325734.0,90.375,July
+Go First,2019,8,8868,1390927.0,87.507,August
+Go First,2019,9,8494,1326836.0,86.698,September
+Go First,2019,10,9186,1378207.0,83.11,October
+Go First,2019,11,8561,1422119.0,92.659,November
+Go First,2019,12,8267,1332368.0,89.668,December
+Go First,2020,1,7846,1247479.0,88.69,January
+Go First,2020,2,7639,1231507.0,90.517,February
+Go First,2020,3,5453,767558.0,78.924,March
+Go First,2020,7,833,79358.0,50.461,July
+Go First,2020,8,1216,132779.0,61.04,August
+Go First,2020,9,2548,263659.0,57.637,September
+Go First,2020,10,3425,395061.0,61.79,October
+Go First,2020,11,4428,577339.0,70.757,November
+Go First,2020,12,5349,654539.0,66.259,December
+Go First,2021,1,5323,633787.0,64.883,January
+Go First,2021,2,4143,581273.0,76.511,February
+Go First,2021,3,4709,611956.0,71.545,March
+Go First,2021,4,4579,547137.0,65.661,April
+Go First,2021,5,1220,138417.0,63.342,May
+Go First,2021,6,2004,258368.0,70.933,June
+Go First,2021,7,2792,342014.0,67.15,July
+Go First,2021,8,3709,457959.0,67.604,August
+Go First,2021,9,4326,579872.0,74.047,September
+Go First,2021,10,6451,883763.0,75.354,October
+Go First,2021,11,8086,1155939.0,78.238,November
+Go First,2021,12,8332,1193076.0,78.991,December
+Go First,2022,1,5239,635493.0,66.722,January
+Go First,2022,2,4630,734220.0,86.961,February
+Go First,2022,3,6981,1044026.0,81.358,March
+Go First,2022,4,7594,1108977.0,80.263,April
+Go First,2022,5,8114,1276216.0,86.504,May
+Go First,2022,6,7023,998773.0,78.712,June
+Go First,2022,7,5779,795237.0,76.517,July
+Go First,2022,8,5875,870277.0,81.641,August
+Go First,2022,9,5323,814678.0,83.214,September
+Go First,2022,10,5042,802322.0,86.716,October
+Go First,2022,11,5140,870316.0,91.319,November
+Go First,2022,12,5549,951235.0,92.629,December
+Go First,2023,1,6242,1052822.0,90.901,January
+Go First,2023,2,5619,963373.0,93.068,February
+Go First,2023,3,5392,894655.0,90.165,March
+Go First,2023,4,4911,828780.0,91.163,April
+Go First,2023,5,284,48296.0,92.409,May
+IndiGo,2015,1,16280,2276404.0,85.162,January
+IndiGo,2015,2,15285,2230645.0,88.032,February
+IndiGo,2015,3,17661,2286128.0,77.006,March
+IndiGo,2015,4,17508,2481285.0,85.694,April
+IndiGo,2015,5,18477,2769283.0,91.866,May
+IndiGo,2015,6,17808,2536554.0,86.646,June
+IndiGo,2015,7,18471,2416916.0,78.439,July
+IndiGo,2015,8,18510,2384943.0,76.84,August
+IndiGo,2015,9,18402,2430449.0,79.415,September
+IndiGo,2015,10,19105,2589861.0,82.441,October
+IndiGo,2015,11,18710,2597765.0,83.925,November
+IndiGo,2015,12,18677,2743325.0,88.493,December
+IndiGo,2016,1,19350,2725711.0,84.659,January
+IndiGo,2016,2,19056,2754131.0,86.047,February
+IndiGo,2016,3,21267,3023228.0,85.118,March
+IndiGo,2016,4,21328,3066556.0,85.832,April
+IndiGo,2016,5,22781,3336839.0,87.237,May
+IndiGo,2016,6,23025,3023081.0,77.853,June
+IndiGo,2016,7,23869,3383768.0,83.592,July
+IndiGo,2016,8,23650,3341081.0,82.11,August
+IndiGo,2016,9,23382,3295826.0,82.052,September
+IndiGo,2016,10,25461,3692828.0,84.897,October
+IndiGo,2016,11,25084,3772583.0,87.947,November
+IndiGo,2016,12,24822,3848322.0,91.405,December
+IndiGo,2017,1,24948,3809228.0,90.006,January
+IndiGo,2017,2,22935,3418605.0,87.664,February
+IndiGo,2017,3,25996,3611371.0,81.583,March
+IndiGo,2017,4,25648,3778780.0,86.909,April
+IndiGo,2017,5,27058,4190914.0,91.145,May
+IndiGo,2017,6,25778,3825814.0,87.815,June
+IndiGo,2017,7,25941,3699451.0,83.657,July
+IndiGo,2017,8,25543,3678245.0,83.555,August
+IndiGo,2017,9,25114,3664509.0,85.173,September
+IndiGo,2017,10,27562,4133027.0,87.324,October
+IndiGo,2017,11,26545,4131844.0,90.679,November
+IndiGo,2017,12,28741,4430070.0,90.79,December
+IndiGo,2018,1,30101,4556904.0,89.683,January
+IndiGo,2018,2,27700,4290189.0,91.789,February
+IndiGo,2018,3,30502,4576236.0,89.046,March
+IndiGo,2018,4,29818,4579916.0,91.919,April
+IndiGo,2018,5,32110,4852909.0,90.968,May
+IndiGo,2018,6,31979,4672686.0,88.313,June
+IndiGo,2018,7,33767,5002416.0,88.334,July
+IndiGo,2018,8,34409,4757378.0,82.846,August
+IndiGo,2018,9,35602,4920335.0,82.703,September
+IndiGo,2018,10,37403,5074853.0,83.106,October
+IndiGo,2018,11,36011,5005919.0,84.855,November
+IndiGo,2018,12,37305,5478523.0,88.925,December
+IndiGo,2019,1,37199,5321832.0,86.441,January
+IndiGo,2019,2,33596,4930608.0,88.409,February
+IndiGo,2019,3,38220,5440796.0,85.95,March
+IndiGo,2019,4,37911,5481088.0,87.771,April
+IndiGo,2019,5,39934,5979551.0,90.91,May
+IndiGo,2019,6,38698,5778376.0,90.092,June
+IndiGo,2019,7,39883,5693448.0,86.161,July
+IndiGo,2019,8,39636,5540693.0,84.319,August
+IndiGo,2019,9,39058,5559031.0,86.456,September
+IndiGo,2019,10,41763,5842318.0,85.123,October
+IndiGo,2019,11,40949,6151347.0,91.417,November
+IndiGo,2019,12,42086,6188457.0,90.102,December
+IndiGo,2020,1,42555,6119924.0,87.79,January
+IndiGo,2020,2,41162,5931189.0,88.317,February
+IndiGo,2020,3,32233,3793464.0,73.426,March
+IndiGo,2020,5,1575,142254.0,52.562,May
+IndiGo,2020,6,10341,1046836.0,60.681,June
+IndiGo,2020,7,13094,1272240.0,60.185,July
+IndiGo,2020,8,15897,1681787.0,65.615,August
+IndiGo,2020,9,21063,2265539.0,65.392,September
+IndiGo,2020,10,24853,2926835.0,68.18,October
+IndiGo,2020,11,26786,3423059.0,73.973,November
+IndiGo,2020,12,31847,3951522.0,71.501,December
+IndiGo,2021,1,34461,4202712.0,69.32,January
+IndiGo,2021,2,32690,4238466.0,74.369,February
+IndiGo,2021,3,36601,4184920.0,66.402,March
+IndiGo,2021,4,31374,3083318.0,58.686,April
+IndiGo,2021,5,14121,1168738.0,51.189,May
+IndiGo,2021,6,16688,1701955.0,62.697,June
+IndiGo,2021,7,26210,2932469.0,66.221,July
+IndiGo,2021,8,30288,3816286.0,74.015,August
+IndiGo,2021,9,32082,3958375.0,73.575,September
+IndiGo,2021,10,36567,4807415.0,77.953,October
+IndiGo,2021,11,41846,5706021.0,80.479,November
+IndiGo,2021,12,44893,6140654.0,80.192,December
+IndiGo,2022,1,32470,3556558.0,66.563,January
+IndiGo,2022,2,27191,3950597.0,85.196,February
+IndiGo,2022,3,41982,5783838.0,80.96,March
+IndiGo,2022,4,43927,5957411.0,79.692,April
+IndiGo,2022,5,45450,6376429.0,81.802,May
+IndiGo,2022,6,44205,5982787.0,78.58,June
+IndiGo,2022,7,43029,5711288.0,77.676,July
+IndiGo,2022,8,43171,5832025.0,78.272,August
+IndiGo,2022,9,42458,5972449.0,81.397,September
+IndiGo,2022,10,45536,6471441.0,82.071,October
+IndiGo,2022,11,43379,6500903.0,86.852,November
+IndiGo,2022,12,46194,6997472.0,87.467,December
+IndiGo,2023,1,47977,6847384.0,82.013,January
+IndiGo,2023,2,44905,6741948.0,86.522,February
+IndiGo,2023,3,50389,7317288.0,84.023,March
+IndiGo,2023,4,48752,7406440.0,87.412,April
+IndiGo,2023,5,50956,8109626.0,91.489,May
+IndiGo,2023,6,49989,7893296.0,90.883,June
+IndiGo,2023,7,52127,7674890.0,83.65,July
+IndiGo,2023,8,53021,7867259.0,83.593,August
+IndiGo,2023,9,51992,7769790.0,84.699,September
+IndiGo,2023,10,54616,7907253.0,83.295,October
+IndiGo,2023,11,52764,7876294.0,85.634,November
+IndiGo,2023,12,53881,8526055.0,90.665,December
+IndiGo,2024,1,50923,7908647.0,88.35,January
+IndiGo,2024,2,50244,7602018.0,88.064,February
+IndiGo,2024,3,55119,8085844.0,84.934,March
+IndiGo,2024,4,53477,7999788.0,86.573,April
+IndiGo,2024,5,55381,8504042.0,88.435,May
+IndiGo,2024,6,53313,8029628.0,86.987,June
+IndiGo,2024,7,54709,8046505.0,84.612,July
+IndiGo,2024,8,56433,8190413.0,82.329,August
+IndiGo,2024,9,56012,8211792.0,82.6,September
+IndiGo,2024,10,59156,8640128.0,82.257,October
+IndiGo,2024,11,56776,9069728.0,90.333,November
+IndiGo,2024,12,59546,9615322.0,90.649,December
+IndiGo,2025,1,60152,9614311.0,89.78,January
+IndiGo,2025,2,55405,9015997.0,91.67,February
+IndiGo,2025,3,61957,9309423.0,84.61,March
+IndiGo,2025,4,59213,9171560.0,86.93,April
+IndiGo,2025,5,59442,9079585.0,85.07,May
+IndiGo,2025,6,57412,8773638.0,85.45,June
+IndiGo,2025,7,53936,8215364.0,84.11,July
+IndiGo,2025,8,53778,8314039.0,84.6,August
+IndiGo,2025,9,54587,8127404.0,81.51,September
+IndiGo,2025,10,61364,9195792.0,82.39,October
+IndiGo,2025,11,59566,9692717.0,88.71,November
+IndiGo,2025,12,53238,8522591.0,88.14,December
+IndiGo,2026,1,58905,9704113.0,87.67,January
+IndiGo,2026,2,53451,8870677.0,89.61,February
+IndiGo,2026,3,59494,9118668.0,83.47,March
+IndiGo,2026,4,59264,8978789.0,82.71,April
+India One Air,2022,10,2,17.0,94.444,October
+India One Air,2022,11,80,644.0,91.669,November
+India One Air,2022,12,60,472.0,91.773,December
+India One Air,2023,1,124,989.0,91.381,January
+India One Air,2023,2,221,1632.0,83.406,February
+India One Air,2023,3,254,1780.0,80.674,March
+India One Air,2023,4,260,1938.0,84.2,April
+India One Air,2023,5,192,1434.0,84.204,May
+India One Air,2023,6,203,1376.0,78.029,June
+India One Air,2023,7,121,783.0,73.47,July
+India One Air,2023,8,179,1174.0,75.41,August
+India One Air,2023,9,213,1511.0,81.009,September
+India One Air,2023,10,260,1813.0,79.069,October
+India One Air,2023,11,336,2523.0,85.063,November
+India One Air,2023,12,330,2588.0,89.024,December
+India One Air,2024,1,322,2411.0,85.502,January
+India One Air,2024,2,304,2269.0,85.956,February
+India One Air,2024,3,352,2620.0,86.029,March
+India One Air,2024,4,284,2043.0,83.021,April
+India One Air,2024,5,321,2210.0,80.526,May
+India One Air,2024,6,272,1852.0,80.14,June
+India One Air,2024,7,264,1669.0,72.701,July
+India One Air,2024,8,348,2143.0,72.111,August
+India One Air,2024,9,358,2263.0,74.332,September
+India One Air,2024,10,326,2124.0,76.255,October
+India One Air,2024,11,367,2607.0,83.029,November
+India One Air,2024,12,412,3131.0,87.074,December
+India One Air,2025,1,416,2860.0,81.11,January
+India One Air,2025,2,382,2721.0,82.86,February
+India One Air,2025,3,428,2992.0,82.0,March
+India One Air,2025,4,414,2886.0,81.17,April
+India One Air,2025,5,423,2947.0,81.05,May
+India One Air,2025,6,446,2819.0,74.67,June
+India One Air,2025,7,457,2321.0,60.41,July
+India One Air,2025,8,426,2519.0,69.55,August
+India One Air,2025,9,442,2753.0,72.82,September
+India One Air,2025,10,376,2702.0,82.32,October
+India One Air,2025,11,424,3070.0,83.12,November
+India One Air,2025,12,457,3308.0,84.01,December
+India One Air,2026,1,263,1573.0,69.45,January
+India One Air,2026,2,354,1591.0,53.04,February
+India One Air,2026,3,403,1750.0,51.11,March
+India One Air,2026,4,383,1687.0,51.99,April
+Jet Airways,2015,1,11179,1221962.0,86.96,January
+Jet Airways,2015,2,10598,1186492.0,89.509,February
+Jet Airways,2015,3,11926,1296682.0,86.576,March
+Jet Airways,2015,4,12286,1283278.0,81.962,April
+Jet Airways,2015,5,12800,1296787.0,81.169,May
+Jet Airways,2015,6,12410,1206583.0,77.684,June
+Jet Airways,2015,7,12878,1329409.0,81.018,July
+Jet Airways,2015,8,12938,1333154.0,80.797,August
+Jet Airways,2015,9,12646,1272577.0,77.879,September
+Jet Airways,2015,10,13264,1316959.0,77.072,October
+Jet Airways,2015,11,12995,1355202.0,80.595,November
+Jet Airways,2015,12,12595,1393452.0,83.707,December
+Jet Airways,2016,1,13044,1426254.0,82.496,January
+Jet Airways,2016,2,12438,1366421.0,83.04,February
+Jet Airways,2016,3,13293,1381232.0,79.151,March
+Jet Airways,2016,4,12302,1255053.0,78.476,April
+Jet Airways,2016,5,12812,1387661.0,82.615,May
+Jet Airways,2016,6,12342,1290114.0,79.079,June
+Jet Airways,2016,7,12659,1385366.0,83.827,July
+Jet Airways,2016,8,12697,1365257.0,81.714,August
+Jet Airways,2016,9,12545,1326741.0,79.928,September
+Jet Airways,2016,10,12773,1265690.0,75.502,October
+Jet Airways,2016,11,12318,1327494.0,80.353,November
+Jet Airways,2016,12,12662,1449939.0,86.049,December
+Jet Airways,2017,1,12661,1476032.0,86.825,January
+Jet Airways,2017,2,11475,1358382.0,86.888,February
+Jet Airways,2017,3,12772,1388369.0,79.791,March
+Jet Airways,2017,4,12283,1380986.0,82.784,April
+Jet Airways,2017,5,13359,1541722.0,85.272,May
+Jet Airways,2017,6,13102,1449797.0,80.986,June
+Jet Airways,2017,7,13595,1503844.0,80.195,July
+Jet Airways,2017,8,13602,1522338.0,80.726,August
+Jet Airways,2017,9,13307,1459934.0,80.16,September
+Jet Airways,2017,10,14047,1571142.0,80.529,October
+Jet Airways,2017,11,13122,1578170.0,87.324,November
+Jet Airways,2017,12,13375,1617784.0,88.514,December
+Jet Airways,2018,1,13163,1629327.0,88.761,January
+Jet Airways,2018,2,12456,1562820.0,90.456,February
+Jet Airways,2018,3,14330,1732912.0,86.206,March
+Jet Airways,2018,4,14001,1683573.0,85.629,April
+Jet Airways,2018,5,14328,1618129.0,80.366,May
+Jet Airways,2018,6,13543,1502783.0,79.463,June
+Jet Airways,2018,7,12697,1565793.0,83.875,July
+Jet Airways,2018,8,13005,1552418.0,81.985,August
+Jet Airways,2018,9,12706,1604196.0,84.903,September
+Jet Airways,2018,10,13078,1562304.0,81.609,October
+Jet Airways,2018,11,12086,1477384.0,82.116,November
+Jet Airways,2018,12,11741,1537426.0,87.03,December
+Jet Airways,2019,1,11388,1481560.0,86.151,January
+Jet Airways,2019,2,8312,1129751.0,89.393,February
+Jet Airways,2019,3,4442,529832.0,86.672,March
+Jet Airways,2019,4,1086,86256.0,76.318,April
+JetLite,2015,1,2152,277588.0,87.367,January
+JetLite,2015,2,2057,272590.0,89.673,February
+JetLite,2015,3,2279,294766.0,87.763,March
+JetLite,2015,4,1972,229057.0,81.883,April
+JetLite,2015,5,2012,225116.0,79.392,May
+JetLite,2015,6,1724,186556.0,78.099,June
+JetLite,2015,7,1800,201874.0,80.06,July
+JetLite,2015,8,1830,204803.0,78.744,August
+JetLite,2015,9,1700,184198.0,74.936,September
+JetLite,2015,10,1641,171551.0,75.86,October
+JetLite,2015,11,1789,200683.0,79.159,November
+JetLite,2015,12,1807,217169.0,83.0,December
+JetLite,2016,1,1751,206231.0,82.467,January
+JetLite,2016,2,1746,206391.0,80.895,February
+JetLite,2016,3,1885,206092.0,76.988,March
+JetLite,2016,4,2124,240818.0,78.3,April
+JetLite,2016,5,2172,254309.0,80.856,May
+JetLite,2016,6,2086,226769.0,75.166,June
+JetLite,2016,7,2033,238924.0,80.88,July
+JetLite,2016,8,2021,234241.0,78.934,August
+JetLite,2016,9,1734,198098.0,77.468,September
+JetLite,2016,10,1989,209117.0,71.101,October
+JetLite,2016,11,1942,217905.0,74.649,November
+JetLite,2016,12,1970,246132.0,85.659,December
+JetLite,2017,1,1907,239705.0,85.448,January
+JetLite,2017,2,1706,214665.0,84.892,February
+JetLite,2017,3,1975,230359.0,79.161,March
+JetLite,2017,4,1811,222476.0,83.313,April
+JetLite,2017,5,2018,246048.0,84.294,May
+JetLite,2017,6,1800,217672.0,82.836,June
+JetLite,2017,7,1926,224811.0,80.693,July
+JetLite,2017,8,1949,236394.0,82.768,August
+JetLite,2017,9,1835,221236.0,83.331,September
+JetLite,2017,10,1794,213497.0,82.133,October
+JetLite,2017,11,1845,240703.0,89.55,November
+JetLite,2017,12,1955,255811.0,89.068,December
+JetLite,2018,1,1981,262951.0,89.655,January
+JetLite,2018,2,1721,231564.0,90.332,February
+JetLite,2018,3,1455,184334.0,87.138,March
+JetLite,2018,4,1321,173248.0,84.373,April
+JetLite,2018,5,1459,182103.0,80.211,May
+JetLite,2018,6,1558,194304.0,79.647,June
+JetLite,2018,7,1342,171138.0,80.452,July
+JetLite,2018,8,1295,163476.0,79.22,August
+JetLite,2018,9,1397,182290.0,82.992,September
+JetLite,2018,10,1506,188698.0,80.198,October
+JetLite,2018,11,1341,174535.0,80.876,November
+JetLite,2018,12,1579,214385.0,85.688,December
+JetLite,2019,1,1599,215128.0,84.152,January
+JetLite,2019,2,1156,158576.0,87.917,February
+JetLite,2019,3,967,134037.0,87.517,March
+JetLite,2019,4,127,17053.0,79.091,April
+Pawan Hans,2019,5,82,237.0,21.93,May
+Pawan Hans,2019,6,84,282.0,27.014,June
+Pawan Hans,2019,7,40,98.0,19.232,July
+Pawan Hans,2019,8,76,156.0,14.426,August
+Pawan Hans,2019,9,70,175.0,17.874,September
+Pawan Hans,2019,10,102,322.0,22.973,October
+Pawan Hans,2019,11,98,329.0,25.049,November
+Pawan Hans,2019,12,78,290.0,27.882,December
+Pawan Hans,2020,1,74,278.0,26.765,January
+Pawan Hans,2020,2,94,324.0,25.89,February
+Pawan Hans,2020,3,60,183.0,23.32,March
+Pawan Hans,2020,6,28,11.0,4.226,June
+Pawan Hans,2020,7,34,18.0,4.827,July
+Pawan Hans,2020,8,36,11.0,3.683,August
+Pawan Hans,2020,9,44,45.0,9.92,September
+Pawan Hans,2020,10,70,172.0,21.912,October
+Pawan Hans,2020,11,70,163.0,19.796,November
+Pawan Hans,2020,12,80,218.0,23.258,December
+Pawan Hans,2021,1,54,182.0,28.281,January
+Pawan Hans,2021,2,84,260.0,27.628,February
+Pawan Hans,2021,3,80,251.0,26.56,March
+Pawan Hans,2021,4,60,116.0,17.385,April
+Pawan Hans,2021,6,60,121.0,18.385,June
+Pawan Hans,2021,7,68,171.0,21.955,July
+Pawan Hans,2021,8,42,102.0,2.15,August
+Pawan Hans,2021,9,78,198.0,23.486,September
+Pawan Hans,2021,10,98,320.0,29.093,October
+Pawan Hans,2021,11,98,428.0,35.435,November
+Pawan Hans,2021,12,28,74.0,22.941,December
+SpiceJet,2015,1,5667,587198.0,80.033,January
+SpiceJet,2015,2,4860,552726.0,85.573,February
+SpiceJet,2015,3,5551,608801.0,83.376,March
+SpiceJet,2015,4,6013,706732.0,88.725,April
+SpiceJet,2015,5,6836,837236.0,93.093,May
+SpiceJet,2015,6,6575,800048.0,93.24,June
+SpiceJet,2015,7,6940,831436.0,93.352,July
+SpiceJet,2015,8,6960,829670.0,92.123,August
+SpiceJet,2015,9,6767,818950.0,93.015,September
+SpiceJet,2015,10,7414,899332.0,92.083,October
+SpiceJet,2015,11,7885,977293.0,90.724,November
+SpiceJet,2015,12,7653,976517.0,92.13,December
+SpiceJet,2016,1,8014,1010933.0,92.114,January
+SpiceJet,2016,2,7642,976302.0,92.31,February
+SpiceJet,2016,3,8008,1006417.0,91.114,March
+SpiceJet,2016,4,8002,1021299.0,93.199,April
+SpiceJet,2016,5,8659,1096114.0,93.521,May
+SpiceJet,2016,6,8072,1010110.0,93.039,June
+SpiceJet,2016,7,8148,993785.0,92.027,July
+SpiceJet,2016,8,8283,1053603.0,93.234,August
+SpiceJet,2016,9,8048,1029704.0,93.476,September
+SpiceJet,2016,10,8768,1118352.0,91.871,October
+SpiceJet,2016,11,8917,1148498.0,92.533,November
+SpiceJet,2016,12,9284,1210229.0,93.728,December
+SpiceJet,2017,1,9490,1229436.0,93.605,January
+SpiceJet,2017,2,8677,1131788.0,93.647,February
+SpiceJet,2017,3,9421,1193225.0,91.412,March
+SpiceJet,2017,4,9058,1176610.0,93.374,April
+SpiceJet,2017,5,9748,1278606.0,94.284,May
+SpiceJet,2017,6,9761,1273391.0,94.543,June
+SpiceJet,2017,7,10463,1358206.0,94.415,July
+SpiceJet,2017,8,10494,1359166.0,94.454,August
+SpiceJet,2017,9,10238,1319755.0,94.159,September
+SpiceJet,2017,10,10627,1364334.0,93.673,October
+SpiceJet,2017,11,10152,1320213.0,95.487,November
+SpiceJet,2017,12,10947,1427146.0,95.599,December
+SpiceJet,2018,1,11145,1447537.0,95.047,January
+SpiceJet,2018,2,10230,1331645.0,96.277,February
+SpiceJet,2018,3,11517,1474206.0,95.023,March
+SpiceJet,2018,4,11026,1426801.0,95.512,April
+SpiceJet,2018,5,11488,1459005.0,94.798,May
+SpiceJet,2018,6,11015,1370265.0,93.307,June
+SpiceJet,2018,7,11401,1427257.0,93.76,July
+SpiceJet,2018,8,11328,1404424.0,93.588,August
+SpiceJet,2018,9,10975,1362564.0,93.171,September
+SpiceJet,2018,10,11518,1382010.0,90.799,October
+SpiceJet,2018,11,11794,1454822.0,91.053,November
+SpiceJet,2018,12,12473,1563700.0,92.73,December
+SpiceJet,2019,1,13271,1665660.0,90.855,January
+SpiceJet,2019,2,12059,1557868.0,94.041,February
+SpiceJet,2019,3,12968,1581456.0,93.035,March
+SpiceJet,2019,4,11983,1440598.0,93.738,April
+SpiceJet,2019,5,14773,1802705.0,93.865,May
+SpiceJet,2019,6,15208,1875606.0,93.697,June
+SpiceJet,2019,7,15005,1847629.0,92.405,July
+SpiceJet,2019,8,14603,1833644.0,92.437,August
+SpiceJet,2019,9,13543,1700367.0,93.03,September
+SpiceJet,2019,10,16098,2004583.0,90.026,October
+SpiceJet,2019,11,16148,2080133.0,92.782,November
+SpiceJet,2019,12,16639,2144156.0,92.747,December
+SpiceJet,2020,1,16693,2124455.0,91.494,January
+SpiceJet,2020,2,14907,1890633.0,93.025,February
+SpiceJet,2020,3,10999,1245208.0,83.678,March
+SpiceJet,2020,5,618,48156.0,57.171,May
+SpiceJet,2020,6,3457,334104.0,68.016,June
+SpiceJet,2020,7,3548,331197.0,70.04,July
+SpiceJet,2020,8,3937,390885.0,76.05,August
+SpiceJet,2020,9,5410,529758.0,73.0,September
+SpiceJet,2020,10,6837,704498.0,73.999,October
+SpiceJet,2020,11,7813,839523.0,77.748,November
+SpiceJet,2020,12,8719,951550.0,78.005,December
+SpiceJet,2021,1,9166,991883.0,76.551,January
+SpiceJet,2021,2,8752,962081.0,78.887,February
+SpiceJet,2021,3,9520,1002950.0,76.539,March
+SpiceJet,2021,4,7043,705499.0,70.779,April
+SpiceJet,2021,5,2111,198792.0,64.043,May
+SpiceJet,2021,6,2913,280798.0,70.984,June
+SpiceJet,2021,7,4737,456239.0,74.567,July
+SpiceJet,2021,8,5835,583539.0,79.593,August
+SpiceJet,2021,9,6292,601529.0,78.841,September
+SpiceJet,2021,10,7837,810239.0,82.179,October
+SpiceJet,2021,11,9010,1078210.0,86.679,November
+SpiceJet,2021,12,9609,1150688.0,85.959,December
+SpiceJet,2022,1,7007,679827.0,73.403,January
+SpiceJet,2022,2,6903,820397.0,89.061,February
+SpiceJet,2022,3,8722,1020817.0,86.869,March
+SpiceJet,2022,4,8709,1000901.0,85.872,April
+SpiceJet,2022,5,9675,1152182.0,89.091,May
+SpiceJet,2022,6,8922,1001649.0,84.05,June
+SpiceJet,2022,7,6605,775824.0,84.694,July
+SpiceJet,2022,8,6850,798347.0,84.585,August
+SpiceJet,2022,9,6233,753485.0,85.765,September
+SpiceJet,2022,10,6549,828531.0,88.101,October
+SpiceJet,2022,11,6337,875668.0,91.958,November
+SpiceJet,2022,12,6838,963522.0,92.714,December
+SpiceJet,2023,1,6542,913814.0,90.993,January
+SpiceJet,2023,2,5744,858261.0,94.138,February
+SpiceJet,2023,3,5801,827166.0,92.341,March
+SpiceJet,2023,4,5118,741386.0,92.232,April
+SpiceJet,2023,5,4971,719797.0,94.778,May
+SpiceJet,2023,6,4087,555248.0,93.588,June
+SpiceJet,2023,7,3980,504227.0,88.856,July
+SpiceJet,2023,8,3999,541051.0,90.864,August
+SpiceJet,2023,9,4036,544605.0,91.371,September
+SpiceJet,2023,10,4603,627964.0,90.121,October
+SpiceJet,2023,11,5439,784533.0,90.786,November
+SpiceJet,2023,12,5234,771972.0,93.484,December
+SpiceJet,2024,1,4997,740084.0,93.659,January
+SpiceJet,2024,2,4480,658810.0,94.467,February
+SpiceJet,2024,3,4802,702476.0,92.743,March
+SpiceJet,2024,4,4397,617484.0,90.85,April
+SpiceJet,2024,5,4004,554464.0,94.123,May
+SpiceJet,2024,6,3637,499538.0,91.495,June
+SpiceJet,2024,7,3115,405360.0,90.282,July
+SpiceJet,2024,8,2729,302378.0,81.008,August
+SpiceJet,2024,9,2281,261053.0,80.353,September
+SpiceJet,2024,10,3079,334601.0,81.038,October
+SpiceJet,2024,11,3579,442543.0,87.872,November
+SpiceJet,2024,12,3752,489394.0,87.441,December
+SpiceJet,2025,1,3607,465732.0,87.13,January
+SpiceJet,2025,2,3407,453930.0,91.22,February
+SpiceJet,2025,3,3804,479518.0,84.81,March
+SpiceJet,2025,4,3026,379010.0,85.98,April
+SpiceJet,2025,5,2861,339663.0,84.04,May
+SpiceJet,2025,6,2370,260902.0,85.24,June
+SpiceJet,2025,7,2298,246242.0,84.2,July
+SpiceJet,2025,8,2330,261610.0,87.03,August
+SpiceJet,2025,9,2267,244777.0,84.64,September
+SpiceJet,2025,10,2991,361639.0,82.25,October
+SpiceJet,2025,11,3956,566943.0,87.7,November
+SpiceJet,2025,12,4092,614339.0,87.45,December
+SpiceJet,2026,1,4028,591582.0,85.89,January
+SpiceJet,2026,2,3691,554895.0,88.96,February
+SpiceJet,2026,3,3828,540882.0,82.84,March
+SpiceJet,2026,4,3422,473750.0,80.74,April
+Star Air,2019,1,24,637.0,54.254,January
+Star Air,2019,2,100,2603.0,52.506,February
+Star Air,2019,3,154,4145.0,54.785,March
+Star Air,2019,4,148,3956.0,53.552,April
+Star Air,2019,5,184,5612.0,62.154,May
+Star Air,2019,6,202,5473.0,55.819,June
+Star Air,2019,7,194,4875.0,50.903,July
+Star Air,2019,8,168,4232.0,53.063,August
+Star Air,2019,9,183,4653.0,51.026,September
+Star Air,2019,10,209,6232.0,59.506,October
+Star Air,2019,11,235,8562.0,75.426,November
+Star Air,2019,12,263,10705.0,82.218,December
+Star Air,2020,1,278,10921.0,79.736,January
+Star Air,2020,2,278,11622.0,80.657,February
+Star Air,2020,3,253,8033.0,68.521,March
+Star Air,2020,5,22,403.0,37.482,May
+Star Air,2020,6,217,5952.0,56.32,June
+Star Air,2020,7,216,5651.0,54.959,July
+Star Air,2020,8,230,7339.0,65.63,August
+Star Air,2020,9,240,8463.0,73.788,September
+Star Air,2020,10,246,8804.0,73.818,October
+Star Air,2020,11,294,10653.0,75.596,November
+Star Air,2020,12,341,12824.0,76.367,December
+Star Air,2021,1,436,15518.0,73.208,January
+Star Air,2021,2,455,17886.0,80.607,February
+Star Air,2021,3,532,18746.0,74.175,March
+Star Air,2021,4,453,12578.0,61.229,April
+Star Air,2021,5,332,6847.0,44.443,May
+Star Air,2021,6,379,12492.0,69.454,June
+Star Air,2021,7,470,16469.0,74.863,July
+Star Air,2021,8,517,18187.0,75.249,August
+Star Air,2021,9,529,18158.0,73.251,September
+Star Air,2021,10,513,19525.0,79.988,October
+Star Air,2021,11,525,20541.0,81.555,November
+Star Air,2021,12,537,21315.0,82.261,December
+Star Air,2022,1,479,14884.0,68.059,January
+Star Air,2022,2,473,17500.0,77.58,February
+Star Air,2022,3,539,21137.0,80.286,March
+Star Air,2022,4,519,20599.0,81.943,April
+Star Air,2022,5,527,21355.0,83.411,May
+Star Air,2022,6,534,21087.0,81.836,June
+Star Air,2022,7,529,19610.0,77.842,July
+Star Air,2022,8,510,19438.0,79.288,August
+Star Air,2022,9,463,17649.0,79.175,September
+Star Air,2022,10,459,17439.0,79.438,October
+Star Air,2022,11,496,19802.0,81.384,November
+Star Air,2022,12,500,20171.0,82.832,December
+Star Air,2023,1,421,16278.0,79.214,January
+Star Air,2023,2,390,14948.0,78.484,February
+Star Air,2023,3,502,18252.0,74.115,March
+Star Air,2023,4,504,18907.0,75.218,April
+Star Air,2023,5,587,25597.0,81.221,May
+Star Air,2023,6,639,24554.0,72.096,June
+Star Air,2023,7,718,28405.0,70.837,July
+Star Air,2023,8,743,31538.0,76.956,August
+Star Air,2023,9,667,25965.0,73.005,September
+Star Air,2023,10,818,35635.0,75.695,October
+Star Air,2023,11,887,41018.0,78.594,November
+Star Air,2023,12,969,48813.0,83.103,December
+Star Air,2024,1,1009,46974.0,76.476,January
+Star Air,2024,2,988,47163.0,76.736,February
+Star Air,2024,3,1066,43270.0,65.577,March
+Star Air,2024,4,1171,52819.0,74.441,April
+Star Air,2024,5,1252,57676.0,75.32,May
+Star Air,2024,6,1323,58670.0,71.49,June
+Star Air,2024,7,1228,52432.0,69.259,July
+Star Air,2024,8,1119,51412.0,73.568,August
+Star Air,2024,9,1108,47677.0,66.276,September
+Star Air,2024,10,1237,56524.0,71.813,October
+Star Air,2024,11,1159,56913.0,73.448,November
+Star Air,2024,12,1108,59861.0,78.33,December
+Star Air,2025,1,1165,62994.0,79.64,January
+Star Air,2025,2,1071,59935.0,83.08,February
+Star Air,2025,3,1179,60714.0,73.76,March
+Star Air,2025,4,1157,61565.0,79.7,April
+Star Air,2025,5,1377,75428.0,75.08,May
+Star Air,2025,6,1303,62766.0,69.82,June
+Star Air,2025,7,1305,63745.0,69.87,July
+Star Air,2025,8,1248,62011.0,72.45,August
+Star Air,2025,9,1380,64920.0,65.24,September
+Star Air,2025,10,1414,76855.0,74.48,October
+Star Air,2025,11,1658,85896.0,72.87,November
+Star Air,2025,12,1698,103743.0,79.91,December
+Star Air,2026,1,1618,97198.0,77.72,January
+Star Air,2026,2,1250,77261.0,79.06,February
+Star Air,2026,3,1477,78549.0,69.67,March
+Star Air,2026,4,1444,77772.0,72.26,April
+TruJet,2015,7,144,8345.0,80.738,July
+TruJet,2015,8,300,17932.0,83.736,August
+TruJet,2015,9,340,19321.0,78.953,September
+TruJet,2015,10,421,22565.0,75.8,October
+TruJet,2015,11,454,25789.0,79.658,November
+TruJet,2015,12,470,27938.0,82.729,December
+TruJet,2016,1,486,29163.0,83.11,January
+TruJet,2016,2,450,25585.0,78.859,February
+TruJet,2016,3,496,27950.0,77.893,March
+TruJet,2016,4,588,32830.0,78.057,April
+TruJet,2016,5,719,40842.0,80.696,May
+TruJet,2016,6,598,34524.0,80.975,June
+TruJet,2016,7,523,29327.0,79.38,July
+TruJet,2016,8,559,30534.0,77.679,August
+TruJet,2016,9,619,32677.0,75.589,September
+TruJet,2016,10,728,39022.0,75.768,October
+TruJet,2016,11,709,40965.0,81.239,November
+TruJet,2016,12,550,31059.0,79.072,December
+TruJet,2017,1,621,33031.0,74.759,January
+TruJet,2017,2,701,38779.0,77.014,February
+TruJet,2017,3,758,41219.0,75.952,March
+TruJet,2017,4,903,47846.0,74.593,April
+TruJet,2017,5,903,51103.0,80.281,May
+TruJet,2017,6,781,41730.0,75.67,June
+TruJet,2017,7,780,44254.0,80.684,July
+TruJet,2017,8,786,46586.0,83.196,August
+TruJet,2017,9,775,40860.0,74.354,September
+TruJet,2017,10,813,37466.0,65.737,October
+TruJet,2017,11,594,28708.0,68.539,November
+TruJet,2017,12,560,29421.0,75.672,December
+TruJet,2018,1,617,32892.0,76.975,January
+TruJet,2018,2,568,30606.0,76.949,February
+TruJet,2018,3,846,42651.0,71.979,March
+TruJet,2018,4,950,52947.0,79.727,April
+TruJet,2018,5,980,56818.0,82.688,May
+TruJet,2018,6,938,52173.0,78.994,June
+TruJet,2018,7,980,51402.0,74.762,July
+TruJet,2018,8,948,50627.0,75.723,August
+TruJet,2018,9,938,50203.0,76.073,September
+TruJet,2018,10,984,56337.0,81.706,October
+TruJet,2018,11,955,52696.0,78.811,November
+TruJet,2018,12,1009,57038.0,80.333,December
+TruJet,2019,1,1064,58143.0,78.03,January
+TruJet,2019,2,966,51164.0,75.903,February
+TruJet,2019,3,1073,53946.0,73.238,March
+TruJet,2019,4,1146,57496.0,72.6,April
+TruJet,2019,5,1216,64218.0,76.214,May
+TruJet,2019,6,1178,63765.0,78.007,June
+TruJet,2019,7,1308,67970.0,75.021,July
+TruJet,2019,8,1141,61277.0,77.8,August
+TruJet,2019,9,1186,55773.0,68.497,September
+TruJet,2019,10,1246,63810.0,73.507,October
+TruJet,2019,11,1493,81116.0,77.249,November
+TruJet,2019,12,1568,87087.0,77.732,December
+TruJet,2020,1,1558,86826.0,79.152,January
+TruJet,2020,2,1554,90489.0,83.381,February
+TruJet,2020,3,1134,56626.0,70.85,March
+TruJet,2020,5,92,1548.0,22.7,May
+TruJet,2020,6,781,15125.0,27.506,June
+TruJet,2020,7,420,10093.0,33.489,July
+TruJet,2020,8,214,7394.0,48.535,August
+TruJet,2020,9,414,10075.0,35.641,September
+TruJet,2020,10,902,28865.0,45.171,October
+TruJet,2020,11,682,28044.0,58.825,November
+TruJet,2020,12,994,41649.0,60.861,December
+TruJet,2021,1,1002,44886.0,64.955,January
+TruJet,2021,2,917,47505.0,75.85,February
+TruJet,2021,3,1020,42678.0,59.881,March
+TruJet,2021,4,864,23962.0,40.378,April
+TruJet,2021,5,661,11813.0,25.721,May
+TruJet,2021,6,312,10762.0,49.149,June
+TruJet,2021,7,421,13361.0,44.426,July
+TruJet,2021,8,728,26823.0,51.665,August
+TruJet,2021,9,401,14557.0,52.009,September
+TruJet,2021,10,431,18674.0,61.87,October
+TruJet,2021,11,209,10596.0,72.473,November
+TruJet,2021,12,207,9530.0,66.958,December
+TruJet,2022,1,188,5415.0,42.595,January
+TruJet,2022,2,64,2056.0,50.984,February
+Vistara,2015,1,216,14999.0,45.417,January
+Vistara,2015,2,386,33317.0,58.578,February
+Vistara,2015,3,702,52603.0,53.63,March
+Vistara,2015,4,814,79415.0,67.307,April
+Vistara,2015,5,907,93037.0,71.12,May
+Vistara,2015,6,982,84313.0,59.266,June
+Vistara,2015,7,1063,94871.0,60.315,July
+Vistara,2015,8,1079,99070.0,62.903,August
+Vistara,2015,9,1068,97578.0,62.385,September
+Vistara,2015,10,1250,122815.0,67.027,October
+Vistara,2015,11,1268,136357.0,72.169,November
+Vistara,2015,12,1374,158348.0,77.59,December
+Vistara,2016,1,1347,150066.0,74.821,January
+Vistara,2016,2,1341,148657.0,73.875,February
+Vistara,2016,3,1427,158084.0,74.709,March
+Vistara,2016,4,1548,182880.0,77.862,April
+Vistara,2016,5,1797,221225.0,80.108,May
+Vistara,2016,6,1890,226938.0,78.979,June
+Vistara,2016,7,1969,225103.0,75.22,July
+Vistara,2016,8,1892,205157.0,69.194,August
+Vistara,2016,9,1765,203216.0,72.714,September
+Vistara,2016,10,2123,232371.0,69.222,October
+Vistara,2016,11,2181,260447.0,74.356,November
+Vistara,2016,12,2260,304154.0,84.275,December
+Vistara,2017,1,2268,303208.0,85.059,January
+Vistara,2017,2,2024,270016.0,85.011,February
+Vistara,2017,3,2265,291871.0,82.202,March
+Vistara,2017,4,2270,296589.0,83.609,April
+Vistara,2017,5,2446,334435.0,86.831,May
+Vistara,2017,6,2554,343729.0,86.381,June
+Vistara,2017,7,2627,348947.0,84.631,July
+Vistara,2017,8,2737,358627.0,83.402,August
+Vistara,2017,9,2735,361728.0,84.064,September
+Vistara,2017,10,2910,369694.0,80.258,October
+Vistara,2017,11,2719,372467.0,86.872,November
+Vistara,2017,12,2986,412711.0,87.651,December
+Vistara,2018,1,2978,409713.0,86.993,January
+Vistara,2018,2,2680,384225.0,91.22,February
+Vistara,2018,3,3181,442122.0,88.215,March
+Vistara,2018,4,3309,462622.0,88.762,April
+Vistara,2018,5,3491,471499.0,85.714,May
+Vistara,2018,6,3385,452177.0,84.831,June
+Vistara,2018,7,3405,451473.0,84.107,July
+Vistara,2018,8,3321,422985.0,81.539,August
+Vistara,2018,9,3264,436063.0,84.872,September
+Vistara,2018,10,3470,434761.0,79.718,October
+Vistara,2018,11,3342,415432.0,78.464,November
+Vistara,2018,12,3582,478133.0,83.077,December
+Vistara,2019,1,3454,470340.0,84.179,January
+Vistara,2019,2,3137,452362.0,89.115,February
+Vistara,2019,3,3485,490428.0,86.792,March
+Vistara,2019,4,3755,516629.0,84.559,April
+Vistara,2019,5,4143,578615.0,85.646,May
+Vistara,2019,6,4820,647799.0,83.292,June
+Vistara,2019,7,5293,714504.0,82.426,July
+Vistara,2019,8,5135,684209.0,81.837,August
+Vistara,2019,9,5055,664391.0,80.325,September
+Vistara,2019,10,5182,668715.0,77.912,October
+Vistara,2019,11,5496,760313.0,84.093,November
+Vistara,2019,12,5914,791892.0,81.108,December
+Vistara,2020,1,6052,830945.0,83.515,January
+Vistara,2020,2,5766,833783.0,87.992,February
+Vistara,2020,3,4182,457191.0,66.425,March
+Vistara,2020,5,256,18416.0,44.085,May
+Vistara,2020,6,1179,111914.0,56.597,June
+Vistara,2020,8,1282,141648.0,68.345,August
+Vistara,2020,9,2374,258441.0,66.669,September
+Vistara,2020,10,3093,339454.0,65.195,October
+Vistara,2020,11,3324,397302.0,70.766,November
+Vistara,2020,12,4132,461382.0,66.779,December
+Vistara,2021,1,4359,514479.0,70.035,January
+Vistara,2021,2,4344,540244.0,73.722,February
+Vistara,2021,3,4678,499846.0,64.534,March
+Vistara,2021,4,3491,310936.0,54.582,April
+Vistara,2021,5,1464,97031.0,40.882,May
+Vistara,2021,6,2220,224532.0,60.002,June
+Vistara,2021,7,3458,406943.0,69.235,July
+Vistara,2021,8,4656,558021.0,71.308,August
+Vistara,2021,9,5069,611819.0,72.364,September
+Vistara,2021,10,5576,696351.0,75.311,October
+Vistara,2021,11,6135,793152.0,76.999,November
+Vistara,2021,12,6581,861086.0,78.084,December
+Vistara,2022,1,4665,478514.0,61.633,January
+Vistara,2022,2,5115,748507.0,87.117,February
+Vistara,2022,3,6641,956179.0,86.082,March
+Vistara,2022,4,6492,904428.0,82.906,April
+Vistara,2022,5,6917,982676.0,84.802,May
+Vistara,2022,6,7191,991500.0,83.823,June
+Vistara,2022,7,7287,1013331.0,84.315,July
+Vistara,2022,8,6987,981028.0,84.432,August
+Vistara,2022,9,6982,996471.0,85.377,September
+Vistara,2022,10,7282,1048868.0,85.532,October
+Vistara,2022,11,7056,1087214.0,91.706,November
+Vistara,2022,12,7579,1170412.0,91.868,December
+Vistara,2023,1,7374,1105388.0,89.44,January
+Vistara,2023,2,6752,1052571.0,92.816,February
+Vistara,2023,3,7467,1149276.0,91.561,March
+Vistara,2023,4,7218,1122536.0,92.055,April
+Vistara,2023,5,7564,1194522.0,93.232,May
+Vistara,2023,6,6465,1011426.0,93.052,June
+Vistara,2023,7,6888,1019501.0,86.966,July
+Vistara,2023,8,7813,1216689.0,91.278,August
+Vistara,2023,9,7814,1229406.0,91.97,September
+Vistara,2023,10,8088,1230575.0,89.172,October
+Vistara,2023,11,7903,1197231.0,89.36,November
+Vistara,2023,12,8347,1317548.0,93.259,December
+Vistara,2024,1,8227,1303105.0,94.233,January
+Vistara,2024,2,7909,1255231.0,94.596,February
+Vistara,2024,3,8265,1283738.0,92.383,March
+Vistara,2024,4,7971,1217667.0,90.938,April
+Vistara,2024,5,8092,1270944.0,93.381,May
+Vistara,2024,6,8349,1276193.0,91.026,June
+Vistara,2024,7,8550,1293519.0,89.981,July
+Vistara,2024,8,9068,1353907.0,88.717,August
+Vistara,2024,9,8582,1308202.0,90.914,September
+Vistara,2024,10,8559,1243110.0,86.076,October
+Vistara,2024,11,2786,415141.0,88.049,November
+Zoom Air,2017,2,36,1141.0,58.706,February
+Zoom Air,2017,3,100,2452.0,74.568,March
+Zoom Air,2017,4,120,2669.0,79.679,April
+Zoom Air,2017,5,116,2573.0,80.075,May
+Zoom Air,2017,6,116,2399.0,73.647,June
+Zoom Air,2017,7,45,813.0,63.069,July
+Zoom Air,2017,9,52,1056.0,54.797,September
+Zoom Air,2017,10,114,3098.0,69.461,October
+Zoom Air,2017,11,120,3623.0,78.465,November
+Zoom Air,2017,12,124,3798.0,78.859,December
+Zoom Air,2018,1,101,2772.0,73.406,January
+Zoom Air,2018,2,100,2911.0,77.176,February
+Zoom Air,2018,3,60,1365.0,63.539,March
+Zoom Air,2018,4,88,2254.0,68.624,April
+Zoom Air,2018,5,169,4772.0,69.914,May
+Zoom Air,2018,6,152,4258.0,24.865,June
