@@ -26,8 +26,8 @@ I am currently working on an end-to-end Data Analytics project focused on analyz
 * ✅ Data Collection
 * ✅ Data Cleaning & Transformation
 * ✅ Exploratory Data Analysis 
-* 🔄 SQL Analysis (In Progress)
-* 🔄 Power BI Dashboard Development
+* ✅ SQL Analysis 
+* 🔄 Power BI Dashboard Development (In Progress)
 * ⏳ Final Documentation & Insights
 
 ## 📂 Planned Deliverables
