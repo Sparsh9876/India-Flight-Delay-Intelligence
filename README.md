@@ -14,9 +14,7 @@ An industry-level end-to-end data analytics project analysing **India's domestic
 
 | Page 1 — Executive Overview | Page 2 — Airline Analysis |
 |---|---|
-| ![Executive Overview](<img width="1543" height="870" alt="Page1" src="https://github.com/user-attachments/assets/249d8b1b-a0e5-41d6-8518-b280d25aac26" />
-) | ![Airline Analysis](<img width="1544" height="866" alt="Page2" src="https://github.com/user-attachments/assets/f69fdaaf-d061-4e16-b20e-cb53e2e94366" />
-) |
+| ![Executive Overview](<img width="1543" height="870" alt="Page1" src="https://github.com/user-attachments/assets/249d8b1b-a0e5-41d6-8518-b280d25aac26" />) | ![Airline Analysis](<img width="1544" height="866" alt="Page2" src="https://github.com/user-attachments/assets/f69fdaaf-d061-4e16-b20e-cb53e2e94366" />)|
 
 | Page 3 — Airport Analysis | Page 4 — Route Intelligence |
 |---|---|
