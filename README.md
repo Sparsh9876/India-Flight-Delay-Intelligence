@@ -12,22 +12,25 @@ An industry-level end-to-end data analytics project analysing **India's domestic
 
 ## 📸 Dashboard Preview
 
-| Page 1 — Executive Overview | Page 2 — Airline Analysis |
-|---|---|
-| ![Executive Overview](<img width="1543" height="870" alt="Page1" src="https://github.com/user-attachments/assets/249d8b1b-a0e5-41d6-8518-b280d25aac26" />) | ![Airline Analysis](<img width="1544" height="866" alt="Page2" src="https://github.com/user-attachments/assets/f69fdaaf-d061-4e16-b20e-cb53e2e94366" />)|
-
-| Page 3 — Airport Analysis | Page 4 — Route Intelligence |
-|---|---|
-| ![Airport Analysis](<img width="1542" height="865" alt="Page3" src="https://github.com/user-attachments/assets/27e0720a-3aae-43cb-9da9-b12263879d61" />
-) | ![Route Intelligence](<img width="1545" height="869" alt="Page4" src="https://github.com/user-attachments/assets/9a52e284-47f1-4da8-9454-56e8bc5eaff2" />
-) |
-
-| Page 5 — Insights & Recommendations |
-|---|
-| ![Insights](<img width="1547" height="870" alt="Page5" src="https://github.com/user-attachments/assets/0685cdcf-f15b-4f72-b178-43143b18969f" />
-) |
+<table>
+<tr>
+<th>Page 1 — Executive Overview </th>
+<th>Page 2 — Airline Analysis </th>
+<th>Page 3 — Airport Analysis </th>
+<th>Page 4 — Route Intelligence </th>
+<th>Page 5 — Insights & Recommendations </th>
+</tr>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/249d8b1b-a0e5-41d6-8518-b280d25aac26"  width="300"></td>
+<td><img src="https://github.com/user-attachments/assets/f69fdaaf-d061-4e16-b20e-cb53e2e94366" width="300"></td>
+<td><img src="https://github.com/user-attachments/assets/27e0720a-3aae-43cb-9da9-b12263879d61"width="300"></td>
+<td><img src="https://github.com/user-attachments/assets/9a52e284-47f1-4da8-9454-56e8bc5eaff2" width="300"></td>
+<td><img src="https://github.com/user-attachments/assets/0685cdcf-f15b-4f72-b178-43143b18969f" width="300"></td>   
+</tr>
+</table>
 
 ---
+
 
 ## 📌 Project Overview
 
@@ -50,7 +53,6 @@ India's domestic aviation sector moved **167 million passengers** in 2025 — bu
 | matplotlib + seaborn + squarify | Publication-quality chart previews |
 | SQLAlchemy + psycopg2 | Python ↔ PostgreSQL connection |
 | Power BI Desktop | 5-page interactive dashboard, DAX measures, conditional formatting |
-| PowerPoint | Custom dark-navy background theme applied across all pages |
 
 ---
 
